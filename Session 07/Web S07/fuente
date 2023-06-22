@@ -1,0 +1,2584 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="format-detection" content="address=no,email=no,telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title> Cinco sitios por donde pueden colarse los ‘hackers’ y cómo solucionarlo | ThinkBig Empresas en EL PAÍS | EL PAÍS</title>
+    <meta name="lang" content="es">
+    <meta name="author" content="J.G. / J.P. | Ana Cuna (Ilustraciones)">
+    <meta name="description" content="Estos son los remedios para cazar a los ciberdelincuentes antes de que accedan a nuestros dispositivos conectados para robar información">
+    <meta name="keywords" content="cinco, sitio, poder, colar, hackers, solucionar, ser, remedio, cazar, ciberdelincuentes, acceder, dispositivo, conectar, robar, información">
+    <meta name="date" scheme="W3CDTF" content="2019-10-01T09:41:19+02:00">
+    <meta name="DC.date.issued" scheme="W3CDTF" content="2019-10-01">
+    <meta name="DC.date" scheme="W3CDTF" content="2019-10-01">
+    <meta name="organization" content="Ediciones EL PAÍS S.L.">
+    <meta property="article:modified_time" content="2019-10-01T09:41:19+02:00">
+    <meta property="article:publisher" content="https://www.facebook.com/elpais">
+    <meta property="article:published_time" content="2019-10-01">
+    <meta property="article:section" content="thinkbig_empresas">
+    <meta property="article:tag" content="Internet de las cosas">
+    <meta property="article:tag" content="Malware">
+    <meta property="article:tag" content="PhisHing">
+    <meta property="article:tag" content="Ciudades inteligentes">
+    <meta property="article:tag" content="Edificios inteligentes">
+    <meta property="article:tag" content="Antivirus">
+    <meta property="article:tag" content="Virus informáticos">
+    <meta property="article:tag" content="Hacker">
+    <meta property="article:tag" content="Telefónica">
+    <meta property="article:tag" content="Delitos informáticos">
+    <meta name="news_keywords" content="Internet de las cosas,Malware,PhisHing,Ciudades inteligentes,Edificios inteligentes,Antivirus,Virus informáticos,Hacker,Telefónica,Delitos informáticos">
+    <meta property="og:title" content="Cinco sitios por donde pueden colarse los ‘hackers’ y cómo solucionarlo">
+    <meta property="og:description" content="Estos son los remedios para cazar a los ciberdelincuentes antes de que accedan a nuestros dispositivos conectados para robar información">
+    <meta property="og:image" content="https://elpais.com/especiales-branded/thinkbig-empresas/2019/cinco-sitios-por-donde-pueden-colarse-los-hackers-y-como-solucionarlo/img/1569332790_257144_1569592970_noticia_normal_1.jpg">
+    <meta property="og:image:width" content="980">
+    <meta property="og:image:height" content="518">
+    <meta property="og:updated_time" content="2019-10-01T09:41:19+02:00">
+    <meta property="og:url" content="https://elpais.com/especiales-branded/thinkbig-empresas/2019/cinco-sitios-por-donde-pueden-colarse-los-hackers-y-como-solucionarlo/">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="EL PAÍS">
+    <meta property="fb:app_id" content="94039431626">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:site" content="@elpais_economia %23telefonicaempresas">
+    <link rel="alternate" href="https://elpais.com/rss/economia/thinkbig_empresas.xml" type="application/rss+xml" title="RSS de la portada de ThinkBig Empresas">
+    <link rel="canonical" href="https://elpais.com/especiales-branded/thinkbig-empresas/2019/cinco-sitios-por-donde-pueden-colarse-los-hackers-y-como-solucionarlo/">
+    <link rel="icon" href="img/favicon.png" type="image/png">
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": ["NewsArticle"],
+        "mainEntityOfPage": "https:https://elpais.com/economia/2019/09/24/thinkbig_empresas/1569332790_257144.html",
+        "headline": "Cinco sitios por donde pueden colarse los ‘hackers’ y cómo solucionarlo",
+        "description": "Estos son los remedios para cazar a los ciberdelincuentes antes de que accedan a nuestros dispositivos conectados para robar información",
+        "datePublished": "2019-10-01T09:41:19+02:00",
+        "dateModified": "2019-10-01T09:41:19+02:00",
+        "image": { "@type": "ImageObject", "url": "https://ep00.epimg.net/economia/imagenes/2019/09/24/thinkbig_empresas/1569332790_257144_1569592970_noticia_normal.jpg", "width": 980, "height": 518 },
+
+        "author": [         {
+    		        "@type"   : "NewsMediaOrganization",
+    		        "name"    : "El País",
+            "sameAs" : "https://elpais.com/tag/autor/el_pais/a/"
+            }        ],
+        "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name" : "Ediciones EL PAÍS S.L.",
+            "logo" : {"@type":"ImageObject","url":"https://ep01.epimg.net/iconos/v1.x/v1.0/promos/promo_og_elpais.png"}
+        },
+        "publishingPrinciples": "https://elpais.com/estaticos/codigo-etico"
+    }
+    </script>
+    <link href="css/normalizado.css" rel="stylesheet">
+    <link href="css/comunes.css" rel="stylesheet">
+    <link href="css/cabecera.css" rel="stylesheet">
+    <link href="css/noticia.css" rel="stylesheet">
+    <link href="css/imprimir.css" media="print" rel="stylesheet">
+    <link href="css/cintillos.css" rel="stylesheet">
+    <link href="css/comercial.css" rel="stylesheet">
+    <link href="css/thinkbig_empresas.css" rel="stylesheet">
+    <link href="css/economia.css" rel="stylesheet">
+    <script type="text/javascript" src="js/noticia.min.js"></script>
+    <script type="text/javascript">
+    //<![CDATA[
+    var videoPublicityDown = false;
+    var videoFuente = "0";
+    var url_cache = "//ep02.epimg.net";
+    var url_reproductor_epet = "/reproductores/playerPEP.swf";
+
+    var id_player_mediateca_PEP = "141";
+    var id_cuenta_mediateca_PEP = "elpais";
+    var mediateca_activo_PEP = true;
+
+    var UrlPublicidad = "//pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=%2F7811748%2Felpais_finanzas_economia_web%2Fplayer_video%2Fflash&ciu_szs=&impl=s&gdfp_req=1&env=vp&output=vast&correlator={random}&unviewed_position_start=1&description_url=[description_url]";
+
+    var publicidad_HTML5 = true;
+    var postroll_HTML5 = true;
+    var marcado_logtrust = true;
+    var modoSiguientesVideos = 0;
+    var retransmisiones = {
+        "akamai_001": "akamaihls_001",
+        "level3_001": "level3hls_001"
+    };
+    var prebidVideoPEP = true;
+
+    var PEPedition = 'españa';
+    var DFP_agrupados = 'branded_content_a,branded_content_telefonica_empresas_a';
+    var listado_norm_tags = 'delitos_informaticos_a,seguridad_internet_a,internet_a,telecomunicaciones_a,comunicaciones_a,internet_de_las_cosas_a,programa_informatico_malicioso_a,fraude_informatico_a,ciudad_inteligente_a,edificios_inteligentes_a,programas_antivirus_a,virus_informaticos_a,pirata_informatico_a,telefonica_a,branded_content_a,branded_content_telefonica_empresas_a';
+    var DFP_tags = ["delitos_informaticos_a", "seguridad_internet_a", "internet_a", "telecomunicaciones_a", "comunicaciones_a", "internet_de_las_cosas_a", "programa_informatico_malicioso_a", "fraude_informatico_a", "ciudad_inteligente_a", "edificios_inteligentes_a", "programas_antivirus_a", "virus_informaticos_a", "pirata_informatico_a", "telefonica_a", "branded_content_a", "branded_content_telefonica_empresas_a"];
+    var listado_id_tags = '26136,72507,40110,75097,23903,139707,130071,149932,131572,27685,89770,79238,89778,75118,192925,196566';
+    var listado_id_autores = '80945';
+    var listado_norm_autores = 'el_pais_a';
+
+    var referrer = document.referrer;
+    if (referrer.indexOf("//t.co/") > -1 || (referrer.indexOf("twitter.com") > 0 && referrer.indexOf("twitter.com") < 30))
+    {
+        if (typeof (DFP_tags) != "undefined")
+            DFP_tags.push("fromtwitter");
+        else
+            var DFP_tags = ["fromtwitter"];
+    }
+
+    var reg_ref_noticia = /http.?:\/\/[^\/]*\/[^\/]*\/\d+\/\d+\/\d+\/[^\/]*\/(.*?)\.html/i;
+    var result_rrn = reg_ref_noticia.exec(document.location.href);
+    if (result_rrn)
+    {
+        if (typeof (DFP_tags) != "undefined")
+            DFP_tags.push(result_rrn[1]);
+        else
+            var DFP_tags = [result_rrn[1]];
+    }
+
+    //]]>
+    </script>
+    <script language="Javascript" type="text/javascript" src="//ep01.epimg.net/js/comun/cx/recomendador.min.js"></script>
+    <script type="text/javascript">
+    var excepcionesSeccion = new Array();
+    excepcionesSeccion['deportes'] = new Array();
+    excepcionesSeccion['deportes'].push('es_laliga');
+    excepcionesSeccion['economia'] = new Array();
+    excepcionesSeccion['economia'].push('mis_finanzas');
+    excepcionesSeccion['economia'].push('nuevos_tiempos');
+    excepcionesSeccion['economia'].push('ser_electrico');
+    excepcionesSeccion['economia'].push('thinkbig_empresas');
+    excepcionesSeccion['economia'].push('estar_donde_estes');
+    excepcionesSeccion['economia'].push('mis_derechos');
+    excepcionesSeccion['sociedad'] = new Array();
+    excepcionesSeccion['sociedad'].push('conduce_como_piensas');
+    excepcionesSeccion['sociedad'].push('feliziudad');
+    excepcionesSeccion['sociedad'].push('pienso_luego_actuo');
+    excepcionesSeccion['sociedad'].push('uso_love_tecnologia');
+    excepcionesSeccion['sociedad'].push('pienso_luego_actuo');
+    excepcionesSeccion['elpais'] = new Array();
+    excepcionesSeccion['elpais'].push('el_pais_que_hacemos');
+    excepcionesSeccion['elpais'].push('alterconsumismo');
+    excepcionesSeccion['elpais'].push('seres_urbanos');
+    excepcionesSeccion['elpais'].push('3500_millones');
+    excepcionesSeccion['elpais'].push('migrados');
+    excepcionesSeccion['elpais'].push('africa_no_es_un_pais');
+    excepcionesSeccion['elpais'].push('escuelas_en_red');
+    excepcionesSeccion['elpais'].push('mujeres');
+    excepcionesSeccion['elpais'].push('contrapuntos');
+    excepcionesSeccion['elpais'].push('escaparate');
+    excepcionesSeccion['elpais'].push('planeta_futuro');
+    excepcionesSeccion['elpais'].push('premios_ortega_y_gasset');
+    var excepcionesAgrupados = ['branded_content_a', 'mis_finanzas_a', 'branded_content_conduce_como_piensas_a', 'branded_content_vw_id_a', 'branded_content_vw_idexperiencias_a', 'branded_content_pienso_luego_actuo_a', 'branded_content_telefonica_empresas_a', 'branded_content_es_laliga_a', 'el_pais_que_hacemos_a', 'y_tu_que_piensas_a', 'alterconsumismo_a', 'seres_urbanos_a', '3500_millones_a', 'migrados_a', 'africa_no_es_un_pais_a', 'escuelas_en_red_a', 'mujeres_a', 'contrapuntos_a', 'formacion_a', 'volvemos_america_a', 'banking_as_a_service_a'];
+    </script>
+
+    <script>
+    (window.BOOMR_mq = window.BOOMR_mq || []).push(["addVar", {
+        "rua.upush": "false",
+        "rua.cpush": "false",
+        "rua.upre": "false",
+        "rua.cpre": "false",
+        "rua.uprl": "false",
+        "rua.cprl": "false",
+        "rua.cprf": "false",
+        "rua.trans": "",
+        "rua.cook": "false",
+        "rua.ims": "false",
+        "rua.ufprl": "false",
+        "rua.cfprl": "false",
+        "rua.isuxp": "false",
+        "rua.texp": "norulematch"
+    }]);
+    </script>
+    <script>
+    !function(a) {
+        var e = "https://s.go-mpulse.net/boomerang/",
+            t = "addEventListener";
+        if ("" == "True")
+            a.BOOMR_config = a.BOOMR_config || {},
+            a.BOOMR_config.PageParams = a.BOOMR_config.PageParams || {},
+            a.BOOMR_config.PageParams.pci = !0,
+            e = "https://s2.go-mpulse.net/boomerang/";
+        if (window.BOOMR_API_key = "RDFVE-2F6BM-YUS3U-DEQCL-AYV76", function() {
+            function n(e) {
+                a.BOOMR_onload = e && e.timeStamp || (new Date).getTime()
+            }
+            if (!a.BOOMR || !a.BOOMR.version && !a.BOOMR.snippetExecuted) {
+                a.BOOMR = a.BOOMR || {},
+                a.BOOMR.snippetExecuted = !0;
+                var i,
+                    _,
+                    o,
+                    r = document.createElement("iframe");
+                if (a[t])
+                    a[t]("load", n, !1);
+                else if (a.attachEvent)
+                    a.attachEvent("onload", n);
+                r.src = "javascript:void(0)",
+                r.title = "",
+                r.role = "presentation",
+                (r.frameElement || r).style.cssText = "width:0;height:0;border:0;display:none;",
+                o = document.getElementsByTagName("script")[0],
+                o.parentNode.insertBefore(r, o);
+                try {
+                    _ = r.contentWindow.document
+                } catch (O) {
+                    i = document.domain,
+                    r.src = "javascript:var d=document.open();d.domain='" + i + "';void(0);",
+                    _ = r.contentWindow.document
+                }
+                _.open()._l = function() {
+                    var a = this.createElement("script");
+                    if (i)
+                        this.domain = i;
+                    a.id = "boomr-if-as",
+                    a.src = e + "RDFVE-2F6BM-YUS3U-DEQCL-AYV76",
+                    BOOMR_lstart = (new Date).getTime(),
+                    this.body.appendChild(a)
+                },
+                _.write("<bo" + 'dy onload="document._l();">'),
+                _.close()
+            }
+        }(), "".length > 0)
+            if (a && "performance" in a && a.performance && "function" == typeof a.performance.setResourceTimingBufferSize)
+                a.performance.setResourceTimingBufferSize();
+        !function() {
+            if (BOOMR = a.BOOMR || {}, BOOMR.plugins = BOOMR.plugins || {}, !BOOMR.plugins.AK) {
+                var e = "" == "true" ? 1 : 0,
+                    t = "",
+                    n = "kmxhq6qxzbbjuytgqdnq-f-b8dc98779-clientnsv4-s.akamaihd.net",
+                    i = "false" == "true" ? 2 : 1,
+                    _ = {
+                        "ak.v": "32",
+                        "ak.cp": "810740",
+                        "ak.ai": parseInt("510971", 10),
+                        "ak.ol": "0",
+                        "ak.cr": 14,
+                        "ak.ipv": 4,
+                        "ak.proto": "http/1.1",
+                        "ak.rid": "36a20f72",
+                        "ak.r": 42877,
+                        "ak.a2": e,
+                        "ak.m": "dscx",
+                        "ak.n": "essl",
+                        "ak.bpcip": "83.46.120.0",
+                        "ak.cport": 8404,
+                        "ak.gh": "23.62.181.26",
+                        "ak.quicv": "",
+                        "ak.tlsv": "tls1.3",
+                        "ak.0rtt": "",
+                        "ak.csrc": "-",
+                        "ak.acc": "reno",
+                        "ak.t": "1650884827",
+                        "ak.ak": "hOBiQwZUYzCg5VSAfCLimQ==yrgm5/60PlDQKvKzbPHGBa3WqFNHf7ybjJoGvxmkB3g9Cw1o0dHHpzoJFQSc0XGFIw+WBm/U4cGSYRUBHaWoDCAyEzX7qT9RX43wktgF+z2hYq+tVgTj243qONbz0auHDYAN1HQ931p5eeNe1xGQ+segRXIZ/7ZxcNAQbeqbCtTetOOoz1yqHIxZDSh3vDgrK5UPK5sVCywNP3MQhNley2yMSLTB05v3s5of7PND9PLqqU3exNtof95Hcm1vYFyzdpFdXjll2bRjFgpmLQ0wU0nEInCoeibLIq4BCeUHrmKTJYda74nIYi/uAStJzYHD+tpKh2wVIjg3YY67Yj8g0nQhfYAmst0q6RJ00o1a4ta2HDtOlJGb2sdoSAyTQn/47tXKyOYCfpSXRKaEdgOgnMcjBPM7hJ1UCPkKIK5mH6Q=",
+                        "ak.pv": "197",
+                        "ak.dpoabenc": "",
+                        "ak.tf": i
+                    };
+                if ("" !== t)
+                    _["ak.ruds"] = t;
+                var o = {
+                    i: !1,
+                    av: function(e) {
+                        var t = "http.initiator";
+                        if (e && (!e[t] || "spa_hard" === e[t]))
+                            _["ak.feo"] = void 0 !== a.aFeoApplied ? 1 : 0,
+                            BOOMR.addVar(_)
+                    },
+                    rv: function() {
+                        var a = ["ak.bpcip", "ak.cport", "ak.cr", "ak.csrc", "ak.gh", "ak.ipv", "ak.m", "ak.n", "ak.ol", "ak.proto", "ak.quicv", "ak.tlsv", "ak.0rtt", "ak.r", "ak.acc", "ak.t", "ak.tf"];
+                        BOOMR.removeVar(a)
+                    }
+                };
+                BOOMR.plugins.AK = {
+                    akVars: _,
+                    akDNSPreFetchDomain: n,
+                    init: function() {
+                        if (!o.i) {
+                            var a = BOOMR.subscribe;
+                            a("before_beacon", o.av, null, null),
+                            a("onbeacon", o.rv, null, null),
+                            o.i = !0
+                        }
+                        return this
+                    },
+                    is_complete: function() {
+                        return !0
+                    }
+                }
+            }
+        }()
+    }(window);
+    </script>
+</head>
+<BODY id="salida_articulo" class="salida_articulo salida_articulo_especial salida_articulo_especial">
+    <div id="pxlhddncntrl" style="display:none">
+        <script src="//ep00.epimg.net/js/prisa/user.min.js?i=1"></script>
+        <script src="//ep00.epimg.net/js/v4.x/v4.0/user.min.js?v=8"></script>
+        <script src="//ep00.epimg.net/js/comun/avisopcdidomi2.js"></script>
+        <script src="//ep00.epimg.net/js/gdt/0681c221600c/a81a11db86dc/launch-f2b3c876fe9c.min.js"></script>
+        <script src="//ep00.epimg.net/js/comun/comun.min.js"></script>
+    </div>
+    <script src="//ep00.epimg.net/js/comun/ll/lazyload.min.js"></script>
+    <script type="text/javascript" src="//ep00.epimg.net/js/pbs/slot_cmp.js"></script>
+    <script type="text/javascript">
+    PBS.setAds({
+        asy: true,
+        ced: true,
+        adunit: "",
+        divid: "",
+        key: {
+            paiskey: []
+        },
+        ads: {}
+    });
+    </script>
+    <div id="contenedor" class="contenedor">
+        <main class="principal" id="principal">
+            <div class="cabecera__envoltorio">
+                <header class="cabecera" id="cabecera">
+                    <div class="cabecera__interior" id="cabecera__interior">
+                        <div class="cabecera-superior">
+                            <div class="cabecera-superior__interior">
+                                <div class="contenedor_centro">
+                                    <div class="ediciones">
+                                        <div class="ediciones__interior">
+                                            <span class="ediciones-titulo">Selecciona Edición</span>
+                                            <nav class="ediciones-navegacion">
+                                                <ul class="ediciones-navegacion-listado">
+                                                    <li class="activo">
+                                                        <a href="/s/setEspana.html">
+                                                            <abbr title="Edición España">ESP</abbr>
+                                                        </a>
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="/s/setAmerica.html">
+                                                            <abbr title="Edición América">AME</abbr>
+                                                        </a>
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="/s/setMexico.html">
+                                                            <abbr title="Edición México">MEX</abbr>
+                                                        </a>
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="/s/setCat.html">
+                                                            <abbr title="Edición Cataluña">CAT</abbr>
+                                                        </a>
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="/s/setEnglish.html">
+                                                            <abbr title="Edición In English">ENG</abbr>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </nav>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="contenedor_derecha">
+                                    <div id="enlace_cadena_ser_cabecera" class="cadena-ser">
+                                        <a href="https://play.cadenaser.com/?autoplay=true&amp;idexterno=elpais_player" target="_blank" rel="nofollow">
+                                            <span class="texto-ser">Escucha</span>
+                                            <span class="logo-ser">SER</span>
+                                        </a>
+                                    </div>
+                                    <div class="navegacion-sucripcion">
+                                        <ul itemtype="https://schema.org/SiteNavigationElement" itemscope="" class="sucripcion-listado">
+                                            <li class="newsletter" itemprop="name">
+                                                <a href="//usuarios.elpais.com/newsletters/?prm=rpv_newsletters_bar_ep" itemprop="url">Newsletter</a>
+                                            </li>
+                                            <li class="suscribete" itemprop="name">
+                                                <a href="//suscripciones.elpais.com/?prm=suscrip_cabecera_ep.com" itemprop="url">Suscríbete</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="usuario" id="usuario">
+                                        <style>
+                                        .principal--fijo .cabecera {
+                                            background-color: white !important;
+                                        }
+
+                                        .contenedor_derecha .cadena-ser, .contenedor_derecha .buscador, .contenedor_derecha .navegacion-sucripcion {
+                                            display: none !important;
+                                        }
+
+                                        .principal--fijo .elpais-logo a span {
+                                            background: url(img/cabecera_interior.svg) no-repeat 0 0.438rem;
+                                            background-size: auto 1.875rem;
+                                        }
+
+                                        .principal--fijo .boton_elpais-menu span {
+                                            background: black;
+                                        }
+
+                                        .principal--fijo .contenedor_derecha {
+                                            width: auto;
+                                            padding-right: 10px;
+                                        }
+
+                                        .eppheader {
+                                            font-family: "Benton Sans", sans-serif;
+                                            font-weight: 100;
+                                            background-color: #f5d03a;
+                                            position: relative;
+                                        }
+
+                                        .eppheader:before {
+                                            content: '';
+                                            display: block;
+                                            width: 100%;
+                                            height: 40px;
+                                            transform: skew(0, -0.3deg);
+                                            top: 70%;
+                                            position: absolute;
+                                            background: #f5d03a;
+                                            z-index: -99;
+                                        }
+
+                                        .eppheader-primary {
+                                            position: relative;
+                                            background-color: #fff;
+                                            max-width: 1200px;
+                                            margin: 0 auto;
+                                            display: flex;
+                                            justify-content: space-between;
+                                            align-items: center;
+                                            box-sizing: border-box;
+                                        }
+
+                                        .eppheader-logo {
+                                            background: url("img/elpais%2B.svg") no-repeat center center;
+                                            background-size: 100%;
+                                            width: 178px;
+                                            height: 41px;
+                                        }
+
+                                        .eppheader-logo a {
+                                            width: 100%;
+                                            height: 100%;
+                                        }
+
+                                        .eppheader-login-content {
+                                            width: 253px;
+                                            height: 37px;
+                                            z-index: 12;
+                                            display: flex;
+                                            position: relative;
+                                        }
+
+                                        .eppheader-login-content:before {
+                                            content: '';
+                                            width: 38px;
+                                            height: 27px;
+                                            display: inline;
+                                            position: absolute;
+                                            top: 6px;
+                                            left: -25px;
+                                            background: url("img/logoE%2B.svg") no-repeat center center;
+                                            z-index: 11;
+                                        }
+
+                                        .eppheader-login-content.open {
+                                            background: #fff;
+                                        }
+
+                                        .eppheader-login-content.open .arrow {
+                                            transform: rotate(180deg);
+                                        }
+
+                                        .eppheader-login-content.open + .eppheader-menu-open {
+                                            display: block;
+                                        }
+
+                                        .eppheader-login-content.logged .eppheader-user {
+                                            background-image: none;
+                                            padding-left: 10px;
+                                            white-space: nowrap;
+                                            overflow: hidden;
+                                            text-overflow: ellipsis;
+                                            width: 90%;
+                                        }
+
+                                        .eppheader-login-content.logged .arrow {
+                                            display: block;
+                                        }
+
+                                        .eppheader-login-content.logged.subscribed {
+                                            background: linear-gradient(270deg, #f6d03b 0%, #fcbf00 100%);
+                                        }
+
+                                        .eppheader-login-content.subscribed .eppheader-subscription {
+                                            display: none;
+                                        }
+
+                                        .eppheader-login-content.subscribed .eppheader-user {
+                                            background: linear-gradient(270deg, #f6d03b 0%, #fcbf00 100%);
+                                            padding-left: 20px;
+                                            border-top: 0;
+                                            width: 150px;
+                                        }
+
+                                        .eppheader-subscription {
+                                            color: rgba(0, 0, 0, 0.8);
+                                            font-family: "Benton Sans", sans-serif;
+                                            font-weight: 500;
+                                            font-size: 11px;
+                                            letter-spacing: -.29px;
+                                            line-height: 14px;
+                                            text-transform: uppercase;
+                                            position: relative;
+                                            padding: 0 15px 0 25px;
+                                            width: 109px;
+                                            height: 37px;
+                                            box-sizing: border-box;
+                                            background: linear-gradient(270deg, #f6d03b 0%, #fcbf00 100%);
+                                            display: flex;
+                                            align-items: center;
+                                            margin-right: 1px;
+                                        }
+
+                                        .eppheader-user {
+                                            width: 150px;
+                                            box-sizing: border-box;
+                                            font-family: "Benton Sans", sans-serif;
+                                            font-weight: 400;
+                                            font-size: 10px;
+                                            color: rgba(0, 0, 0, 0.8);
+                                            letter-spacing: -.29px;
+                                            border-top: 3px solid #f6d03b;
+                                            padding-right: 10px;
+                                            white-space: nowrap;
+                                            cursor: pointer;
+                                            z-index: 10;
+                                            display: flex;
+                                            justify-content: space-between;
+                                            align-items: center;
+                                            background: url("img/user.svg") no-repeat 10px center #F8F8F8;
+                                            text-transform: uppercase;
+                                            padding-left: 43px;
+                                        }
+
+                                        .eppheader-user-name--mobile {
+                                            font-size: 11px;
+                                            font-weight: 500;
+                                        }
+
+                                        .subscribed .eppheader-user-name--mobile {
+                                            font-size: 13px;
+                                        }
+
+                                        .eppheader-user .arrow {
+                                            display: none;
+                                            width: 11px;
+                                            height: 11px;
+                                            background: url('img/arrow-login.svg') transparent no-repeat center / 98%;
+                                            transition: transform .6s;
+                                        }
+
+                                        .eppheader-user-name {
+                                            overflow: hidden;
+                                            text-overflow: ellipsis;
+                                            white-space: nowrap;
+                                            width: 140px;
+                                        }
+
+                                        .eppheader-user-name--mobile {
+                                            display: none;
+                                        }
+
+                                        .eppheader-menu-open {
+                                            display: none;
+                                            position: absolute;
+                                            right: 0;
+                                            top: 100%;
+                                            background: #fff;
+                                            width: 330px;
+                                            box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.09);
+                                            z-index: 11;
+                                        }
+
+                                        .eppheader-menu-open-header {
+                                            text-align: center;
+                                            padding: 5px 20px 20px;
+                                            border-bottom: 2px solid #f8f8f8;
+                                            margin: 20px 0 16px;
+                                        }
+
+                                        .eppheader-menu-open-header h3 {
+                                            font-family: "Benton Sans", sans-serif;
+                                            font-weight: 500;
+                                            font-size: 15px;
+                                            text-transform: none;
+                                        }
+
+                                        .eppheader-menu-open-nav {
+                                            padding: 0 16px;
+                                        }
+
+                                        .eppheader-menu-open-nav a:hover {
+                                            text-decoration: underline;
+                                        }
+
+                                        .eppheader-menu-open ul {
+                                            background: #f8f8f8;
+                                            border-radius: 4px;
+                                            overflow: hidden;
+                                            padding: 24px 16px 16px;
+                                        }
+
+                                        .eppheader-menu-open li {
+                                            padding-bottom: 16px;
+                                            font-size: 16px;
+                                            line-height: 100%;
+                                            font-weight: 100;
+                                            text-transform: none;
+                                            text-align: left;
+                                        }
+
+                                        .eppheader-menu-open li a {
+                                            color: rgba(0, 0, 0, 0.8);
+                                        }
+
+                                        .eppheader-menu-open .disconnect {
+                                            display: block;
+                                            color: #EFB500;
+                                            font-family: "Benton Sans", sans-serif;
+                                            font-weight: 500;
+                                            font-size: 14px;
+                                            line-height: 14px;
+                                            text-align: center;
+                                            text-transform: none;
+                                            margin: 17px auto 18px;
+                                            text-decoration: underline;
+                                        }
+
+                                        .eppheader-menu-open .disconnect:hover {
+                                            text-decoration: underline;
+                                        }
+
+                                        .eppheader-btn-subscription {
+                                            display: inline-block;
+                                            background: #FCBF00;
+                                            border-radius: 40px;
+                                            padding: 16px 26px;
+                                            margin: 7px 10px 12px;
+                                            color: #fff;
+                                            font-family: "Benton Sans", sans-serif;
+                                            font-weight: 900;
+                                            font-size: 14px;
+                                            letter-spacing: .05px;
+                                            line-height: 17px;
+                                            text-align: center;
+                                            text-transform: uppercase;
+                                        }
+
+                                        .eppheader-nav {
+                                            max-width: 1200px;
+                                            margin: 0 auto;
+                                            display: flex;
+                                            justify-content: center;
+                                            align-items: center;
+                                        }
+
+                                        .eppheader-nav ul {
+                                            display: flex;
+                                        }
+
+                                        .eppheader-nav li {
+                                            color: #000;
+                                            font-family: "Benton Sans", sans-serif;
+                                            font-weight: 300;
+                                            font-size: 12px;
+                                            letter-spacing: .42px;
+                                            line-height: 15px;
+                                            text-align: center;
+                                            text-transform: uppercase;
+                                            display: inline-flex;
+                                            align-items: center;
+                                        }
+
+                                        .eppheader-nav li:before {
+                                            content: '·';
+                                            margin: 0 20px;
+                                        }
+
+                                        .eppheader-nav li:first-child:before {
+                                            content: none;
+                                        }
+
+                                        .eppheader-nav a {
+                                            box-sizing: border-box;
+                                            padding: 20px 0;
+                                            border-bottom: 5px solid transparent;
+                                            letter-spacing: .6px;
+                                            min-width: 100px;
+                                        }
+
+                                        .eppheader-nav a.active, .eppheader-nav a:hover {
+                                            font-weight: 700;
+                                            border-bottom: 5px solid #fff;
+                                            letter-spacing: 0;
+                                        }
+
+                                        .boton_suscribete-movil {
+                                            display: none;
+                                        }
+
+                                        @media only screen and (max-width: 767px) {
+                                            #salida_portadilla #cabecera .contenedor_derecha {
+                                                padding-right: 5px;
+                                            }
+
+                                            .eppheader {
+                                                margin-bottom: 30px;
+                                            }
+
+                                            .eppheader:before {
+                                                transform: skew(0, -1.5deg);
+                                                top: 63%;
+                                            }
+
+                                            .eppheader-logo {
+                                                width: 125px;
+                                            }
+
+                                            .eppheader-primary {
+                                                margin: 0;
+                                                padding: 0 0 0 10px;
+                                                height: 47px;
+                                            }
+
+                                            .eppheader-login-content {
+                                                display: block;
+                                                width: 54px;
+                                                height: auto;
+                                                padding: 3px 10px 5px;
+                                                border-top: 2px solid transparent;
+                                                padding-right: 5px;
+                                                width: 49px;
+                                            }
+
+                                            .eppheader-login-content:before {
+                                                content: none;
+                                            }
+
+                                            .eppheader-subscription, .eppheader-user-name {
+                                                display: none;
+                                            }
+
+                                            .eppheader-user-name--mobile {
+                                                display: block;
+                                            }
+
+                                            .eppheader-login-content.logged .eppheader-user, .eppheader-user {
+                                                width: 33px;
+                                                height: 33px;
+                                                padding: 0;
+                                                background: url("img/user-2.svg") transparent no-repeat center center;
+                                                background-position: center top;
+                                                background-size: 100%;
+                                                box-shadow: inset 0 0 0 1.5px white;
+                                                border: 1px solid #f5d03a;
+                                                border-radius: 50%;
+                                            }
+
+                                            .eppheader-login-content.logged .eppheader-user {
+                                                background: #E8E8E8;
+                                                /*box-shadow: -1px -1px 6px 0 rgba(0, 0, 0, 0.09);*/
+                                            }
+
+                                            .eppheader-login-content.logged .eppheader-user-name {
+                                                text-align: center;
+                                            }
+
+                                            .eppheader-login-content.logged .arrow {
+                                                display: block;
+                                                position: absolute;
+                                                left: -3px;
+                                                opacity: .6;
+                                                width: 9px;
+                                                height: 6px;
+                                                background-size: 100%;
+                                            }
+
+                                            .eppheader-login-content.logged.subscribed {
+                                                background: #fff;
+                                            }
+
+                                            .eppheader-login-content.logged.subscribed .eppheader-user {
+                                                background: linear-gradient(270deg, #f6d03b 0%, #fcbf00 100%);
+                                                border: 0;
+                                                box-shadow: none;
+                                            }
+
+                                            .eppheader-login-content.open {
+                                                z-index: 12;
+                                                box-shadow: 0 -7px 7px 0 rgba(0, 0, 0, 0.09);
+                                                border-top: 2px solid #f5d03a;
+                                                width: 62px;
+                                                padding-left: 23px;
+                                            }
+
+                                            .eppheader-login-content.open .eppheader-user .arrow {
+                                                /*display: none;*/
+                                                transform: rotate(180deg);
+                                                left: 10px;
+                                            }
+
+                                            .eppheader-menu-open {
+                                                right: 20px;
+                                                top: calc(100% - 20px);
+                                            }
+
+                                            .eppheader-login-content.open + .eppheader-menu-open {
+                                                box-shadow: -1px -1px 6px 0 rgba(0, 0, 0, 0.09);
+                                                width: calc(100vw - 1.875rem);
+                                                right: 0;
+                                                top: 94%;
+                                                top: 45px;
+                                                width: calc(100vw - 10px);
+                                                max-width: 330px;
+                                            }
+
+                                            .eppheader-nav ul {
+                                                width: 100vw;
+                                                overflow-x: scroll;
+                                                height: 45px;
+                                            }
+
+                                            .eppheader-nav li {
+                                                height: 50px;
+                                            }
+
+                                            .eppheader-nav li:before {
+                                                margin: 0 5px;
+                                            }
+
+                                            .eppheader-nav li:last-child {
+                                                padding-right: 15px;
+                                            }
+
+                                            .eppheader-nav a {
+                                                font-size: 12px;
+                                                padding: 10px 0;
+                                                white-space: nowrap;
+                                                border: 0;
+                                            }
+
+                                            .boton_suscribete-movil {
+                                                display: block;
+                                                border-top: 2px solid #E2BE35;
+                                                background: #f6d03b;
+                                                background: -moz-linear-gradient(left, #f6d03b 0%, #f6d03b 100%);
+                                                background: -webkit-linear-gradient(left, #f6d03b 0%, #f6d03b 100%);
+                                                background: linear-gradient(to right, #f6d03b 0%, #f6d03b 100%);
+                                                filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#f6d03b', endColorstr='#f6d03b', GradientType=1);
+                                                font-family: 'Benton Sans';
+                                                font-weight: 500;
+                                                color: #312806;
+                                                font-size: 11px;
+                                                line-height: 14px;
+                                                padding: 8px 10px;
+                                                text-align: center;
+                                                width: 100%;
+                                                text-indent: 0;
+                                                text-transform: uppercase;
+                                                height: auto;
+                                                margin-bottom: 5px;
+                                            }
+                                        }
+
+                                        @media (max-width: 37.438em) {
+                                            body.salida_articulo .boton_suscribete-movil {
+                                                width: auto;
+                                                margin: 0 -0.625rem;
+                                            }
+                                        }
+
+                                        @media (max-width: 47.938em) {
+                                            .eppheader-login-content.open + .eppheader-menu-open {
+                                                width: calc(100vw - 10px);
+                                            }
+                                        }
+
+                                        @media (max-width: 47.938em) {
+                                            /* 767PX */
+                                            .visible .elpais-menu__interior {
+                                                width: 90%;
+                                            }
+
+                                            .elpais .ediciones {
+                                                padding: 3.788rem 2% 1rem;
+                                            }
+
+                                            .altocontraste {
+                                                right: auto;
+                                                left: 0.125rem;
+                                                top: 58px;
+                                            }
+
+                                            .tamanoletra {
+                                                top: 58px;
+                                            }
+                                        }/* cabecera fija  */
+
+                                        .principal--fijo .cabecera {
+                                            box-shadow: rgba(0, 0, 0, 0.1) 0 2px 4px;
+                                        }
+
+                                        @media (min-width: 48em) {
+                                            .principal--fijo .cabecera-seccion {
+                                                background: white;
+                                            }
+
+                                            .principal--fijo .cabecera .eppheader-btn {
+                                                margin-top: 6px;
+                                            }
+                                        }
+
+                                        @media (min-width: 62.5em) {
+                                            .principal--fijo .elpais-menu__interior {
+                                                max-width: 62.5rem;
+                                                width: 100vw;
+                                            }
+
+                                            body.salida_articulo_especial .principal--fijo .cabecera {
+                                                background-color: white;
+                                            }
+                                        }/* EPMAS */
+
+                                        .the-header {
+                                            text-align: right;
+                                        }
+
+                                        .the-header .eppheader-btn {
+                                            display: inline-block;
+                                            text-align: left;
+                                            margin-right: 10px;
+                                        }
+
+                                        a.eppheader-btn-subscription:hover {
+                                            color: white;
+                                            opacity: 0.8;
+                                        }
+
+                                        @media (min-width: 768px) and(max-width: 1000px) {
+                                            .eppheader-login-content:not(.subscribed):before {
+                                                content: none;
+                                                display: none;
+                                            }
+
+                                            .eppheader-subscription {
+                                                border-top: 3px solid white;
+                                                width: 83px;
+                                                padding-left: 8px;
+                                                padding-right: 8px;
+                                            }
+
+                                            .eppheader-login-content .eppheader-user {
+                                                text-align: left;
+                                            }
+
+                                            .eppheader-login-content:not(.logged) .eppheader-user {
+                                                width: 123px;
+                                                padding-left: 40px;
+                                                padding-right: 0;
+                                            }
+
+                                            .eppheader-login-content.logged .eppheader-user {
+                                                width: 109px;
+                                                padding-left: 10px;
+                                            }
+
+                                            .eppheader-login-content {
+                                                width: 207px;
+                                            }
+
+                                            .eppheader-login-content.logged {
+                                                width: 193px;
+                                            }
+
+                                            .eppheader-user {
+                                                letter-spacing: normal;
+                                            }
+
+                                            .eppheader-user .arrow {
+                                                width: 16px;
+                                            }
+
+                                            .open .eppheader-user {
+                                                background-color: white;
+                                            }
+
+                                            .eppheader-login-content.subscribed {
+                                                width: 125px;
+                                            }
+
+                                            .eppheader-login-content.subscribed .eppheader-user {
+                                                width: 125px;
+                                                padding-left: 20px;
+                                                font-weight: 700;
+                                            }
+                                        }
+
+                                        @media (min-width: 1001px) {
+                                            .eppheader-subscription {
+                                                border-top: 3px solid white;
+                                            }
+
+                                            .eppheader-login-content .eppheader-user {
+                                                text-align: left;
+                                            }
+
+                                            .eppheader-login-content:not(.logged) .eppheader-user .eppheader-user-name {
+                                                font-size: 11px;
+                                            }
+
+                                            .principal--fijo .eppheader-login-content:not(.logged) .eppheader-user .eppheader-user-name {
+                                                text-transform: uppercase;
+                                            }
+
+                                            .eppheader-login-content:not(.logged) .eppheader-user {
+                                                width: 150px;
+                                            }
+
+                                            .eppheader-login-content.logged .eppheader-user {
+                                                width: 150px;
+                                                padding-left: 22px;
+                                            }
+
+                                            .open .eppheader-user {
+                                                background-color: white;
+                                            }
+
+                                            .principal--fijo .eppheader-user {
+                                                background-color: white;
+                                                text-transform: none;
+                                                font-size: 11px;
+                                                font-weight: 700;
+                                            }
+
+                                            .eppheader-login-content.logged.subscribed {
+                                                width: 150px;
+                                            }
+
+                                            .eppheader-login-content.logged.subscribed .eppheader-user {
+                                                font-weight: 700;
+                                            }
+                                        }
+
+                                        #elpais .navegacion-sucripcion ul .suscribete a {
+                                            background: -webkit-gradient(linear, right top, left top, from(#f6d03b), to(#fcbf00));
+                                            background: linear-gradient(270deg, #f6d03b, #fcbf00);
+                                            color: rgba(0, 0, 0, .8);
+                                        }
+
+                                        @media (max-width: 47.938em) {
+                                            .elpais-logo, .principal--fijo .elpais-logo {
+                                                text-align: left;
+                                                margin-left: 48px;
+                                            }
+                                        }
+
+                                        @media (max-width: 767px) {
+                                            #cabecera .elpais-logo a span {
+                                                background-size: auto 30px;
+                                                background-position: center left;
+                                            }
+
+                                            #usuario .eppheader-primary {
+                                                background: transparent;
+                                                padding: 7px 6px 9px 0;
+                                                display: block;
+                                            }
+
+                                            #usuario .eppheader-login-content {
+                                                width: 134px;
+                                                padding: 0;
+                                            }
+
+                                            #usuario .eppheader-subscription {
+                                                display: inline-block;
+                                                vertical-align: middle;
+                                                width: 86px;
+                                                padding: 0;
+                                                background: transparent;
+                                                border-right: 1px solid #E2E2E2;
+                                                height: 33px;
+                                                line-height: 32px;
+                                                color: #FDC002;
+                                                margin-right: 0;
+                                            }
+
+                                            #usuario .eppheader-user {
+                                                float: right;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged {
+                                                width: 142px;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged .eppheader-subscription {
+                                                margin-right: 23px;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged .eppheader-user {
+                                                position: relative;
+                                                overflow: visible;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged .eppheader-user-name {
+                                                font-weight: 700;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged .arrow {
+                                                left: -14px;
+                                                top: 12px;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged.open {
+                                                box-shadow: none;
+                                                background: transparent;
+                                                border-top-color: transparent;
+                                            }
+
+                                            #usuario .eppheader-login-content.open + .eppheader-menu-open {
+                                                top: 48px;
+                                                -webkit-box-shadow: 0 0 14px 0 rgba(0, 0, 0, .09);
+                                                box-shadow: 0 0 14px 0 rgba(0, 0, 0, .09);
+                                            }
+
+                                            #usuario .eppheader-login-content.open + .eppheader-menu-open:before {
+                                                content: '';
+                                                display: block;
+                                                position: absolute;
+                                                right: 0;
+                                                top: -47px;
+                                                width: 62px;
+                                                height: 47px;
+                                                border-top: 3px solid #F5D03A;
+                                                background: white;
+                                                z-index: 12;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged.subscribed {
+                                                background: transparent;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged.subscribed .arrow {
+                                                left: -13px;
+                                                top: 13px;
+                                            }
+                                        }
+
+                                        @media (min-width: 768px) {
+                                            #cabecera__interior {
+                                                border-top: 1px solid black;
+                                            }
+
+                                            .principal--fijo #cabecera {
+                                                border-top: 1px solid black;
+                                            }
+
+                                            .principal--fijo #cabecera__interior {
+                                                border-top: none;
+                                                min-height: 49px;
+                                            }
+
+                                            .principal--fijo #cabecera .contenedor_derecha {
+                                                padding-right: 15px;
+                                            }
+
+                                            body.salida_articulo .principal--fijo #cabecera .contenedor_derecha {
+                                                padding-right: 10px;
+                                            }
+
+                                            .principal:not(.principal--fijo) #cabecera__interior {
+                                                padding-top: 6px;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged .eppheader-user {
+                                                text-transform: uppercase;
+                                            }
+                                        }
+
+                                        @media (max-width: 1000px) and(min-width: 768px) {
+                                            .principal--fijo .elpais-logo {
+                                                float: left;
+                                                margin-left: 3rem;
+                                            }
+
+                                            #usuario .eppheader-login-content {
+                                                width: 213px;
+                                            }
+
+                                            #usuario .eppheader-login-content:not(.logged) .eppheader-user {
+                                                font-size: 11px;
+                                                font-weight: 700;
+                                                letter-spacing: -0.29px;
+                                                width: 129px;
+                                                background-color: white;
+                                                padding-left: 38px;
+                                                background-position: 6px center;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged {
+                                                max-width: 236px;
+                                                width: auto;
+                                                justify-content: flex-end;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged .eppheader-user {
+                                                font-size: 11px;
+                                                font-weight: 700;
+                                                letter-spacing: -0.29px;
+                                                background-color: white;
+                                                padding-left: 10px;
+                                                padding-right: 30px;
+                                                width: auto;
+                                                display: inline-block;
+                                                line-height: 35px;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged .eppheader-user .arrow {
+                                                width: 10px;
+                                                position: absolute;
+                                                right: 11px;
+                                                top: 16px;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged .eppheader-subscription {
+                                                font-weight: 700;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged.subscribed .eppheader-user {
+                                                padding-left: 22px;
+                                                line-height: 37px;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged.subscribed .eppheader-user .arrow {
+                                                top: 14px;
+                                            }
+                                        }
+
+                                        @media (min-width: 1001px) {
+                                            #usuario .eppheader-subscription {
+                                                font-weight: 700;
+                                            }
+
+                                            #usuario .eppheader-login-content {
+                                                width: 260px;
+                                            }
+
+                                            #usuario .eppheader-login-content:not(.logged) .eppheader-user {
+                                                font-size: 11px;
+                                                font-weight: 700;
+                                                letter-spacing: -0.29px;
+                                                width: 150px;
+                                                background-color: white;
+                                                padding-left: 38px;
+                                                background-position: 6px center;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged .eppheader-user {
+                                                font-size: 11px;
+                                                font-weight: 700;
+                                                letter-spacing: -0.29px;
+                                                background-color: white;
+                                                padding-left: 22px;
+                                                padding-right: 30px;
+                                                width: 150px;
+                                                display: inline-block;
+                                                line-height: 35px;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged .eppheader-user .arrow {
+                                                width: 10px;
+                                                position: absolute;
+                                                right: 11px;
+                                                top: 16px;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged.subscribed {
+                                                width: 150px;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged.subscribed .eppheader-user {
+                                                line-height: 37px;
+                                                padding-left: 24px;
+                                            }
+
+                                            #usuario .eppheader-login-content.logged.subscribed .eppheader-user .arrow {
+                                                top: 14px;
+                                            }
+                                        }
+
+                                        #usuario .eppheader-menu-open-header:empty {
+                                            display: none;
+                                        }
+
+                                        #usuario .eppheader-menu-open-nav:nth-child(1) {
+                                            padding-top: 16px;
+                                        }
+                                        </style>
+                                        <script>
+                                        var newHeader = true;
+                                        </script>
+                                        <div id="capausuario" class="eppheader-btn">
+                                            <div id="loginContent" class="eppheader-primary">
+                                                <div id="loginContentHeader" class="eppheader-login-content">
+                                                    <a href="https://suscripciones.elpais.com" class="eppheader-subscription">Suscríbete</a>
+                                                    <a id="userName" href="https://elpais.com/subscriptions/#/sign-in?prod=REG&amp;o=CABEP&amp;backURL=https%3A%2F%2Felpais.com%2Feconomia%2F2019%2F09%2F24%2Fthinkbig_empresas%2F1569332790_257144.html%3Frender%3Dpep" class="eppheader-user">
+                                                        <span id="nombreUsuario" class="eppheader-user-name">Iniciar Sesión</span>
+                                                        <span class="arrow"></span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="buscador" id="buscador">
+                                        <button class="boton_buscador" id="boton_buscador">Buscador</button>
+                                        <div class="buscador__interior">
+                                            <button class="boton_cerrar" id="cerrar_buscador">Cerrar</button>
+                                            <div class="buscador-formulario">
+                                                <form name="formulario_busquedas" action="/buscador/" method="POST">
+                                                    <input type="search" name="qt" placeholder="Buscar contenido" value="" autocomplete="off">
+                                                    <button class="boton_buscar" id="boton_buscar">Buscar</button>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cabecera-inferior">
+                            <div class="cabecera-inferior__interior">
+                                <div class="elpais" id="elpais">
+                                    <div class="elpais-menu" id="elpais-menu">
+                                        <button id="boton_elpais-menu" class="boton boton_elpais-menu">
+                                            <span>Secciones</span>
+                                            <span></span>
+                                            <span></span>
+                                            <span></span>
+                                        </button>
+                                        <div class="elpais-menu__interior">
+                                            <button id="cerrar_elpais-menu" class="boton_cerrar">
+                                                <span>Cerrar</span>
+                                                <span></span>
+                                                <span></span>
+                                                <span></span>
+                                            </button>
+                                            <div class="ediciones">
+                                                <div class="ediciones__interior">
+                                                    <span class="ediciones-titulo">Selecciona Edición</span>
+                                                    <nav class="ediciones-navegacion">
+                                                        <ul class="ediciones-navegacion-listado">
+                                                            <li class="activo">
+                                                                <a href="/s/setEspana.html">
+                                                                    <abbr title="Edición España">ESP</abbr>
+                                                                </a>
+                                                            </li>
+                                                            <li class="">
+                                                                <a href="/s/setAmerica.html">
+                                                                    <abbr title="Edición América">AME</abbr>
+                                                                </a>
+                                                            </li>
+                                                            <li class="">
+                                                                <a href="/s/setMexico.html">
+                                                                    <abbr title="Edición México">MEX</abbr>
+                                                                </a>
+                                                            </li>
+                                                            <li class="">
+                                                                <a href="/s/setCat.html">
+                                                                    <abbr title="Edición Cataluña">CAT</abbr>
+                                                                </a>
+                                                            </li>
+                                                            <li class="">
+                                                                <a href="/s/setEnglish.html">
+                                                                    <abbr title="Edición In English">ENG</abbr>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </nav>
+                                                </div>
+                                            </div>
+                                            <div id="tamanoletra" class="tamanoletra">
+                                                <span class="tamanoletra-nombre">Tamaño letra</span>
+                                                <button id="tamanoletra--disminuir" title="Disminuir tamaño de letra">
+                                                    a
+                                                    <sup>-</sup>
+                                                </button>
+                                                <button id="tamanoletra--aumentar" title="Aumentar tamaño de letra">
+                                                    A
+                                                    <sup>+</sup>
+                                                </button>
+                                            </div>
+                                            <div class="altocontraste" id="altocontraste">
+                                                <button id="boton_altocontraste" class="boton_altocontraste">
+                                                    <span class="boton-nombre">Alto contraste</span>
+                                                    <span class="control">
+                                                        <span class="control-punto"></span>
+                                                    </span>
+                                                </button>
+                                            </div>
+                                            <nav class="elpais-navegacion">
+                                                <div class="navegacion navegacion_secciones">
+                                                    <ul itemscope="" itemtype="https://schema.org/SiteNavigationElement" class="navegacion-listado" id="navegacion-listado">
+                                                        <li id="subnavegacion_internacional" itemprop="name" class="internacional navegacion_secciones--submenu">
+                                                            <a itemprop="url" href="//elpais.com/internacional/">Internacional</a>
+                                                            <button id="boton_subnavegacion_internacional">mostrar/ocultar menú Internacional</button>
+                                                            <div class="subnavegacion">
+                                                                <ul class="navegacion-listado">
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/europa/a/">Europa</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/internacional/estados_unidos.html">Estados Unidos</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/internacional/mexico.html">México</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/latinoamerica/a/">América Latina</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/oriente_proximo/a/">Oriente Próximo</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/c/fc0affdd9ca95b29da5e148791d8b5d0">Asia</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/africa/a/">África</a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                        <li id="subnavegacion_opinion" itemprop="name" class="opinion navegacion_secciones--submenu">
+                                                            <a itemprop="url" href="//elpais.com/opinion/">Opinión</a>
+                                                            <button id="boton_subnavegacion_opinion">mostrar/ocultar menú Opinión</button>
+                                                            <div class="subnavegacion">
+                                                                <ul class="navegacion-listado">
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/opinion/editoriales/">Editoriales </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="https://elpais.com/autor/cartas-director/">Cartas al director </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="https://elpais.com/noticias/vinetas/">Viñetas </a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                        <li id="subnavegacion_politica" itemprop="name" class="politica navegacion_secciones--submenu">
+                                                            <a itemprop="url" href="//elpais.com/politica">España</a>
+                                                            <button id="boton_subnavegacion_politica">mostrar/ocultar menú España</button>
+                                                            <div class="subnavegacion">
+                                                                <ul class="navegacion-listado">
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/noticias/andalucia/">Andalucía </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/espana/catalunya/">Cataluña </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/espana/comunidad-valenciana/">C. Valenciana </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/noticias/galicia/">Galicia </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/espana/madrid/">Madrid </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/noticias/pais-vasco/">País Vasco </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/ccaa/">Más comunidades </a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                        <li id="subnavegacion_economia" itemprop="name" class="economia navegacion_secciones--submenu">
+                                                            <a itemprop="url" href="//elpais.com/economia">Economía </a>
+                                                            <button id="boton_subnavegacion_economia">mostrar/ocultar menú Economía</button>
+                                                            <div class="subnavegacion">
+                                                                <ul class="navegacion-listado">
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/mercados_financieros/a/">Mercados </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/agr/mis_finanzas/a/">Mis finanzas</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/economia/vivienda.html">Vivienda </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/agr/mis_derechos/a/">Mis Derechos </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/agr/formacion/a/">Formación</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/agr/negocios/a/">
+                                                                            <strong>Negocios </strong>
+                                                                        </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//cincodias.elpais.com/">
+                                                                            <strong>Cincodías </strong>
+                                                                        </a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                        <li id="subnavegacion_sociedad" itemprop="name" class="sociedad navegacion_secciones--submenu">
+                                                            <a itemprop="url" href="//elpais.com/sociedad/">Sociedad</a>
+                                                            <button id="boton_subnavegacion_sociedad">mostrar/ocultar menú Sociedad</button>
+                                                            <div class="subnavegacion">
+                                                                <ul class="navegacion-listado">
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="/tag/medio_ambiente/a/">Medio Ambiente </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="/tag/igualdad_oportunidades/a/">Igualdad </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="/tag/sanidad/a/">Sanidad </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="/tag/consumo/a/">Consumo </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="/tag/asuntos_sociales/a/">Asuntos sociales </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="/tag/laicismo/a/">Laicismo </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="/tag/comunicacion/a/">Comunicación </a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                        <li id="subnavegacion_educacion" itemprop="name" class="educacion">
+                                                            <a itemprop="url" href="//elpais.com/educacion">Educación</a>
+                                                        </li>
+                                                        <li id="subnavegacion_educacion" itemprop="name" class="educacion">
+                                                            <a itemprop="url" href="//elpais.com/clima-y-medio-ambiente">Medio ambiente</a>
+                                                        </li>
+                                                        <li id="subnavegacion_ciencia" itemprop="name" class="ciencia">
+                                                            <a itemprop="url" href="//elpais.com/ciencia">Ciencia</a>
+                                                        </li>
+                                                        <li id="subnavegacion_tecnologia" itemprop="name" class="tecnologia navegacion_secciones--submenu">
+                                                            <a itemprop="url" href="//elpais.com/tecnologia/">Tecnología</a>
+                                                            <button id="boton_subnavegacion_tecnologia">mostrar/ocultar menú Tecnología</button>
+                                                            <div class="subnavegacion">
+                                                                <ul class="navegacion-listado">
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/tecnologias_movilidad/a/">Móviles</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/redes_sociales/a/">Redes sociales</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/agr/banco_de_pruebas_gadgets/a">Banco de pruebas</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="http://www.meristation.com/">Meristation</a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                        <li id="subnavegacion_cultura" itemprop="name" class="cultura navegacion_secciones--submenu">
+                                                            <a itemprop="url" href="//elpais.com/cultura/">Cultura</a>
+                                                            <button id="boton_subnavegacion_cultura">mostrar/ocultar menú Cultura</button>
+                                                            <div class="subnavegacion">
+                                                                <ul class="navegacion-listado">
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/libros/a/">Literatura </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/cine/a/">Cine </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/musica/a/">Música </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/teatro/a/">Teatro </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/danza/a/">Danza </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/arte/a/">Arte </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/arquitectura/a/">Arquitectura </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/toros/a/">Toros </a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                        <li id="subnavegacion_gente" itemprop="name" class="gente ">
+                                                            <a itemprop="url" href="//elpais.com/gente/">Gente</a>
+                                                        </li>
+                                                        <li id="subnavegacion_estilo" itemprop="name" class="estilo navegacion_secciones--submenu">
+                                                            <a itemprop="url" href="//elpais.com/elpais/estilo.html">Estilo</a>
+                                                            <button id="boton_subnavegacion_estilo">mostrar/ocultar menú Estilo</button>
+                                                            <div class="subnavegacion">
+                                                                <ul class="navegacion-listado">
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/moda/a/">Moda </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/gastronomia/a/">Gastronomía </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/gente/">Gente </a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                        <li id="subnavegacion_deportes" itemprop="name" class="activo navegacion_secciones--submenu">
+                                                            <a itemprop="url" class="deportes" href="//elpais.com/deportes/">Deportes</a>
+                                                            <button id="boton_subnavegacion_deportes">mostrar/ocultar menú Deportes</button>
+                                                            <div class="subnavegacion">
+                                                                <ul class="navegacion-listado">
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/futbol/a/">Fútbol </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/baloncesto/a/">Baloncesto </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/tenis/a/">Tenis </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/ciclismo/a/">Ciclismo </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/formula_1/a/">Fórmula 1 </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/motociclismo/a/">Motociclismo </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/golf/a/">Golf </a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/c/71ddc71077b77126d68866b37ca75576">Otros deportes </a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                        <li id="subnavegacion_television" itemprop="name" class="television navegacion_secciones--submenu">
+                                                            <a itemprop="url" href="//elpais.com/television">Televisión</a>
+                                                            <button id="boton_subnavegacion_television">mostrar/ocultar menú Televisión</button>
+                                                            <div class="subnavegacion">
+                                                                <ul class="navegacion-listado">
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/series_tv/a">Series</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/agr/quinta_temporada/a">Quinta Temporada</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/c/7d625399e46888dd89ed95dffc053da9">Programas</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/c/9ad0cb2811e406a7c7b0a939844d33e2">Comunicación</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/critica_television/a">Crítica TV</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="//elpais.com/tag/avance_television/a">Avances</a>
+                                                                    </li>
+                                                                    <li itemprop="name">
+                                                                        <a itemprop="url" href="https://programacion-tv.elpais.com/">Programación TV</a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                        <li itemprop="name" class="inenglish">
+                                                            <a itemprop="url" href="//elpais.com/elpais/inenglish.html">In english</a>
+                                                        </li>
+                                                        <li itemprop="name" class="motor">
+                                                            <a itemprop="url" href="http://motor.elpais.com">Motor</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="navegacion navegacion_suplementos">
+                                                    <ul class="navegacion-listado" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+                                                        <li itemprop="name" class="cinco_dias">
+                                                            <a itemprop="url" href="//cincodias.elpais.com">Cinco Días</a>
+                                                        </li>
+                                                        <li itemprop="name" class="eps">
+                                                            <a itemprop="url" href="https://elpais.com/eps/">EL PAÍS SEMANAL</a>
+                                                        </li>
+                                                        <li itemprop="name" class="babelia">
+                                                            <a itemprop="url" href="//elpais.com/cultura/babelia.html">Babelia</a>
+                                                        </li>
+                                                        <li itemprop="name" class="el_viajero">
+                                                            <a itemprop="url" href="//elviajero.elpais.com/">El Viajero</a>
+                                                        </li>
+                                                        <li itemprop="name" class="negocios">
+                                                            <a itemprop="url" href="//elpais.com/agr/negocios/a/">Negocios</a>
+                                                        </li>
+                                                        <li itemprop="name" class="ideas">
+                                                            <a itemprop="url" href="//elpais.com/elpais/ideas.html">Ideas</a>
+                                                        </li>
+                                                        <li itemprop="name" class="planeta_futuro">
+                                                            <a itemprop="url" href="//elpais.com/planeta-futuro/">Planeta Futuro</a>
+                                                        </li>
+                                                        <li itemprop="name" class="el_comidista">
+                                                            <a itemprop="url" href="https://elcomidista.elpais.com/">El Comidista</a>
+                                                        </li>
+                                                        <li itemprop="name" class="smoda">
+                                                            <a itemprop="url" href="http://smoda.elpais.com/">Smoda</a>
+                                                        </li>
+                                                        <li itemprop="name" class="icon">
+                                                            <a itemprop="url" href="//elpais.com/icon/">ICON</a>
+                                                        </li>
+                                                        <li itemprop="name" class="design">
+                                                            <a itemprop="url" href="//elpais.com/icon-design/">ICON Design</a>
+                                                        </li>
+                                                        <li itemprop="name" class="mamas_papas">
+                                                            <a itemprop="url" href="//elpais.com/mamas-papas/">Mamas &amp; Papas</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="navegacion navegacion_ademas">
+                                                    <ul class="navegacion-listado" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+                                                        <li itemprop="name" class="fotos">
+                                                            <a itemprop="url" href="//elpais.com/elpais/album.html">Fotos</a>
+                                                        </li>
+                                                        <li itemprop="name" class="vinetas">
+                                                            <a itemprop="url" href="https://elpais.com/noticias/vinetas/">Viñetas</a>
+                                                        </li>
+                                                        <li itemprop="name" class="especiales">
+                                                            <a itemprop="url" href="//elpais.com/especiales/">Especiales</a>
+                                                        </li>
+                                                        <li itemprop="name" class="obituarios">
+                                                            <a itemprop="url" href="//elpais.com/tag/obituario/a/">Obituarios</a>
+                                                        </li>
+                                                        <li itemprop="name" class="hemeroteca">
+                                                            <a itemprop="url" href="//elpais.com/diario/">Hemeroteca</a>
+                                                        </li>
+                                                        <li itemprop="name" class="el_tiempo">
+                                                            <a itemprop="url" href="http://servicios.elpais.com/el-tiempo/">El tiempo</a>
+                                                        </li>
+                                                        <li itemprop="name" class="servicios">
+                                                            <a itemprop="url" href="http://servicios.elpais.com/">Servicios</a>
+                                                        </li>
+                                                        <li itemprop="name" class="blogs">
+                                                            <a itemprop="url" href="//elpais.com/elpais/blogs.html">Blogs</a>
+                                                        </li>
+                                                        <li itemprop="name" class="promociones">
+                                                            <a href="//elpais.com/promociones/" itemprop="url">Promociones</a>
+                                                        </li>
+                                                        <li itemprop="name" class="estudiantes">
+                                                            <a href="//elpais.com/escaparate/" itemprop="url">Escaparate</a>
+                                                        </li>
+                                                        <li itemprop="name" class="estudiantes">
+                                                            <a href="http://estudiantes.elpais.com/" itemprop="url">El País de los estudiantes</a>
+                                                        </li>
+                                                        <li itemprop="name" class="escuela">
+                                                            <a href="http://escuela.elpais.com/" itemprop="url">Escuela de periodismo</a>
+                                                        </li>
+                                                        <li itemprop="name" class="promociones">
+                                                            <a href="//elpais.com/suscripciones/elpaismas.html" itemprop="url">El País +</a>
+                                                        </li>
+                                                        <li itemprop="name" class="descuentos">
+                                                            <a href="//descuentos.elpais.com" itemprop="url">Descuentos</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="navegacion-inferior">
+                                                    <div class="elpais-social" id="organizacion" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+                                                        <span class="elpais-social-nombre">Síguenos en</span>
+                                                        <meta itemprop="url" content="https://elpais.com">
+                                                        <meta itemprop="name" content="EL PAÍS">
+                                                        <ul>
+                                                            <li>
+                                                                <a itemprop="sameAs" rel="nofollow" class="boton_twitter" href="https://twitter.com/el_pais">Síguenos en Twitter</a>
+                                                            </li>
+                                                            <li>
+                                                                <a itemprop="sameAs" rel="nofollow" class="boton_facebook" href="https://www.facebook.com/elpais">Síguenos en Facebook</a>
+                                                            </li>
+                                                            <li>
+                                                                <a itemprop="sameAs" rel="nofollow" class="boton_instagram" href="https://www.instagram.com/el_pais/">Síguenos en Instagram</a>
+                                                            </li>
+                                                        </ul>
+                                                        <div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                                                            <meta itemprop="url" content="img/elpais.png">
+                                                            <meta itemprop="width" content="267">
+                                                            <meta itemprop="height" content="60">
+                                                        </div>
+                                                    </div>
+                                                    <div class="cadena-ser-programa">
+                                                        <a href="https://play.cadenaser.com/?autoplay=true&amp;idexterno=elpais_player" target="_blank" rel="nofollow">
+                                                            <span id="cad-ser-texto-programa" class="texto-programa"></span>
+                                                            <span id="cad-ser-texto-ser" class="texto-ser">
+                                                                Escucha
+                                                                <span class="logo-ser">SER</span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="navegacion-sucripcion">
+                                                        <ul class="sucripcion-listado" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+                                                            <li itemprop="name" class="newsletter">
+                                                                <a itemprop="url" href="//usuarios.elpais.com/newsletters/?prm=rpv_newsletters_ham_ep">Newsletter</a>
+                                                            </li>
+                                                            <li itemprop="name" class="suscribete">
+                                                                <a itemprop="url" href="//elpais.com/suscripciones/?prm=rpv_sus_ham_ep" id="suscribete_hamburguer">Suscríbete</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </nav>
+                                        </div>
+                                    </div>
+                                    <div itemtype="https://data-vocabulary.org/Breadcrumb" itemscope="" class="elpais-logo">
+                                        <a href="//elpais.com" itemprop="url">
+                                            <span itemprop="title">EL PAÍS</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="cabecera-seccion cabecera-seccion--personalizada" id="cabecera-seccion">
+                                    <div class="seccion">
+                                        <div class="seccion-migas">
+                                            <span itemtype="https://data-vocabulary.org/Breadcrumb" itemscope="" class="miga miga_seccion">
+                                                <a class="enlace" title="Ir a 'ThinkBig Empresas'" href="/economia/thinkbig_empresas.html" itemprop="url">
+                                                    <span itemprop="title">ThinkBig Empresas</span>
+                                                </a>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div id="cabecera-agrupador" class="cabecera-agrupador">
+                                        <style>
+                                        #alertas {
+                                            display: none
+                                        }/*.agrupador-nombre a {pointer-events:none; cursor:not-allowed}*/
+
+                                        .salida_articulo.salida_articulo_especial .cabecera-superior, .salida_articulo.salida_articulo_especial .elpais-menu {
+                                            display: none
+                                        }
+
+                                        .cabecera, .principal--fijo .cabecera__interior {
+                                            max-width: inherit;
+                                            background-color: #003245
+                                        }
+
+                                        .principal:not(.principal--fijo) .elpais-logo a span {
+                                            background: url(img/cabecera_interior_blanco.svg) no-repeat left center;
+                                            background-size: auto 1.875rem
+                                        }
+
+                                        .cabecera-agrupador > .agrupador {
+                                            display: block;
+                                            text-align: center;
+                                            clear: none
+                                        }
+
+                                        .principal:not(.principal--fijo) .agrupador-nombre {
+                                            float: none;
+                                            margin: 0 auto;
+                                            width: 12.5rem
+                                        }
+
+                                        .principal:not(.principal--fijo) .agrupador-nombre a {
+                                            text-align: center;
+                                            margin-left: -11.25rem;
+                                            line-height: 4rem
+                                        }
+
+                                        .principal:not(.principal--fijo) .cabecera__interior {
+                                            border-bottom: 0 none
+                                        }
+
+                                        .principal--fijo .agrupador .agrupador-nombre {
+                                            text-transform: none
+                                        }
+
+                                        .principal--fijo .agrupador-nombre a {
+                                            color: #fff
+                                        }
+
+                                        .agrupador .agrupador-patrocinador {
+                                            width: 11.875rem;
+                                            position: absolute;
+                                            right: 3rem;
+                                            top: 0;
+                                            background-image: url(img/telefonica-empresas-vertical.svg);
+                                            background-size: 5.0625rem;
+                                            background-position: center right;
+                                            background-repeat: no-repeat;
+                                            display: inline-block
+                                        }
+
+                                        .agrupador .agrupador-patrocinador:before {
+                                            content: "Un proyecto de";
+                                            display: block;
+                                            font-size: 0.75rem;
+                                            font-weight: 300;
+                                            text-indent: initial !important;
+                                            color: #fff;
+                                            text-align: left;
+                                            text-transform: uppercase;
+                                            margin-top: 1.1875rem;
+                                            position: relative;
+                                            margin-right: 5.125rem
+                                        }
+
+                                        .principal--fijo .agrupador-patrocinador {
+                                            width: 10rem;
+                                            background-size: 3.875rem;
+                                            height: 3rem
+                                        }
+
+                                        .principal--fijo .agrupador-patrocinador:before {
+                                            margin-top: 0.6875rem;
+                                            margin-right: 4.375rem;
+                                            font-size: 0.625rem
+                                        }/*.agrupador-nombre a, .principal--fijo .agrupador-nombre a {width:8.75rem; background:url(/estaticos/2019/04/thinkbig/img/think-big-horizontal-over-blue.svg) center no-repeat; background-size:contain; text-indent:-9999em}*/
+
+                                        .agrupador-nombre a, .principal--fijo .agrupador-nombre a {
+                                            width: 11.25rem;
+                                            background: url(img/thinkbigempresas.svg) center no-repeat;
+                                            background-size: contain;
+                                            text-indent: -9999em
+                                        }
+
+                                        @media (max-width: 62.438em) {
+                                            .agrupador .agrupador-patrocinador {
+                                                top: 0;
+                                                background-size: 4.3125rem;
+                                                width: 11rem
+                                            }
+
+                                            .agrupador .agrupador-patrocinador:before {
+                                                margin-top: 0.75rem;
+                                                font-size: 0.6875rem
+                                            }
+
+                                            .principal:not(.principal--fijo) .agrupador-nombre a {
+                                                line-height: 3rem;
+                                                height: 2.25rem;
+                                                margin-top: 0.375rem
+                                            }
+
+                                            .principal--fijo .elpais-logo a span {
+                                                background: url(img/cabecera_interior_blanco.svg) no-repeat left center;
+                                                background-size: auto 1.875rem
+                                            }
+                                        }
+
+                                        @media (max-width: 47.938em) {
+                                            .salida_articulo.salida_articulo_especial .cabecera-superior, .salida_articulo.salida_articulo_especial .elpais-menu {
+                                                display: block
+                                            }
+
+                                            .salida_articulo.salida_articulo_especial .principal:not(.principal--fijo) .cabecera__interior {
+                                                border-bottom: 0.063rem solid #EBEBEB
+                                            }
+
+                                            .cabecera, .principal--fijo .cabecera__interior {
+                                                background-color: #fff
+                                            }
+
+                                            .principal:not(.principal--fijo) .elpais-logo a span, .principal--fijo .elpais-logo a span {
+                                                background: url(img/cabecera_interior_1.svg) no-repeat 0 0.438rem;
+                                                background-size: auto 1.875rem
+                                            }
+
+                                            .agrupador--patrocinador .agrupador__interior {
+                                                margin: 0;
+                                                text-align: center
+                                            }
+
+                                            .principal--fijo .agrupador .agrupador-nombre {
+                                                padding: 0.5rem;
+                                                margin: 0 auto;
+                                                position: relative;
+                                                width: 100%;
+                                                background-color: #003245
+                                            }
+
+                                            .principal:not(.principal--fijo) .agrupador-nombre {
+                                                width: 100%;
+                                                background-color: #003245
+                                            }
+
+                                            .principal:not(.principal--fijo) .agrupador-nombre a {
+                                                margin: 0.5rem auto
+                                            }
+
+                                            .principal--fijo .cabecera-seccion {
+                                                display: block
+                                            }
+
+                                            .agrupador-nombre a, .principal--fijo .agrupador-nombre a {
+                                                height: 2.5rem
+                                            }
+
+                                            .cabecera-seccion {
+                                                background-color: #fff
+                                            }
+
+                                            .agrupador .agrupador-patrocinador {
+                                                top: 0.125rem;
+                                                right: 4%;
+                                                height: 2rem;
+                                                position: relative;
+                                                text-align: center;
+                                                margin: 0 auto;
+                                                display: inline-block;
+                                                right: auto;
+                                                left: auto;
+                                                float: none;
+                                                background-image: url(img/telefonica-empresas-horizontal-dark-blue.svg);
+                                                width: 100%;
+                                                max-width: 13.4375rem;
+                                                background-size: 8rem
+                                            }
+
+                                            .agrupador .agrupador-patrocinador:before {
+                                                font-size: 0.625rem;
+                                                margin-top: 0.0625rem;
+                                                color: #333
+                                            }
+
+                                            .agrupador__interior {
+                                                margin: 0.625rem 0
+                                            }
+                                        }
+
+                                        @media (min-width: 62.5em) {
+                                            .principal--fijo .cabecera, .salida_articulo_especial .principal--fijo .cabecera, .salida_articulo_especial .principal--fijo .elpais .boton_cerrar, .salida_articulo_especial .principal--fijo .elpais-navegacion, .salida_articulo_especial .principal--fijo .elpais .ediciones, .salida_articulo_especial .principal--fijo .boton_altocontraste .control-punto {
+                                                background-color: #003245
+                                            }
+
+                                            .salida_articulo.salida_articulo_especial .principal:not(.principal--fijo) .seccion-migas {
+                                                height: 5.5rem
+                                            }
+                                        }/*contenido especial*/
+
+                                        .articulo_especial .sumario_despiece {
+                                            background-color: #ebebeb;
+                                            color: #000
+                                        }
+
+                                        .articulo_especial .sumario_despiece .h4, .articulo_especial .sumario_despiece .h3, .articulo_especial .sumario_despiece .sumario-titulo {
+                                            color: #000
+                                        }
+
+                                        .sumario-texto > p {
+                                            font-size: 3rem;
+                                            line-height: 3.5rem;
+                                            text-align: center;
+                                            font-weight: 300
+                                        }
+
+                                        .articulo_especial .articulo-datos {
+                                            margin: 1.25rem auto
+                                        }
+
+                                        .articulo_especial .compartir-varios {
+                                            float: right
+                                        }/*contenido normal*/
+
+                                        .salida_articulo:not(.salida_articulo_especial) .principal--fijo .cabecera__interior {
+                                            max-width: 62.500rem
+                                        }
+
+                                        .salida_articulo:not(.salida_articulo_especial) .cabecera-superior__interior, .salida_articulo:not(.salida_articulo_especial) .boton_elpais-menu span {
+                                            background: #fff
+                                        }
+
+                                        @media (min-width: 62.5rem) {
+                                            .principal--fijo .contenedor_derecha .navegacion-sucripcion, .principal--fijo .cabecera-superior .contenedor_derecha {
+                                                display: none
+                                            }
+                                        }
+
+                                        @media (min-width: 47.938em) {
+                                            .salida_articulo:not(.salida_articulo_especial) .agrupador .agrupador-patrocinador {
+                                                right: 0.625rem
+                                            }
+
+                                            .salida_articulo_especial .articulo-encabezado {
+                                                padding-top: 0
+                                            }
+
+                                            .salida_articulo:not(.salida_articulo_especial) .principal--fijo .boton_buscador:before {
+                                                color: #fff
+                                            }
+                                        }/* cambios nueva cabecera suscripcion/login */
+
+                                        @media (min-width: 62.5rem) {
+                                            .principal--fijo .elpais-logo a span {
+                                                background: url(img/el_pais_blanco.svg) no-repeat left 0.563rem / auto 1.625rem
+                                            }
+                                        }
+                                        </style>
+                                        <div class="agrupador agrupador--patrocinador" id="agrupador">
+                                            <div class="agrupador__interior">
+                                                <span class="agrupador-nombre" itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="">
+                                                    <a class="enlace" href="https://elpais.com/economia/thinkbig_empresas.html" itemprop="url">
+                                                        <span itemprop="title">ThinkBig Empresas</span>
+                                                    </a>
+                                                </span>
+                                                <a href="https://www.movistar.es/Microsites/telefonica-empresas/#Inicio" rel="sponsored" target="_blank" class="agrupador-patrocinador"></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+            </div>
+            <div class="articulo__envoltorio">
+                <article class="articulo articulo--nointro articulo_especial" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/NewsArticle" itemref="organizacion">
+                    <div class="articulo__interior" id="articulo_interior">
+                        <div class="articulo__apertura">
+                            <header class="articulo-encabezado " id="articulo-encabezado">
+                                <figure class="foto destacada foto_w980" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+                                    <img onload="lzld(this)" src="img/t.gif" data-src="img/1569332790_257144_1569592970_noticia_normal.jpg" width="980" height="518" srcset="img/t.gif 200w" data-srcset="img/1569332790_257144_1569592970_noticia_normal_recorte1.jpg 1960w, img/1569332790_257144_1569592970_noticia_normal_recorte2.jpg 720w, img/1569332790_257144_1569592970_noticia_normal.jpg 980w" alt="hackers">
+                                    <meta itemprop="width" content="980">
+                                    <meta itemprop="height" content="518">
+                                    <meta itemprop="url" content="img/1569332790_257144_1569592970_noticia_normal.jpg">
+                                    <meta itemprop="representativeOfPage" content="true">
+                                </figure>
+                                <div class="articulo-encabezado-texto">
+                                    <div class="articulo-titulares" id="articulo-titulares">
+                                        <h1 class="articulo-titulo " id="articulo-titulo" itemprop="headline">Cinco sitios por donde pueden colarse los ‘hackers’ y cómo solucionarlo</h1>
+                                        <meta itemprop="url" content="https://elpais.com/economia/2019/09/24/thinkbig_empresas/1569332790_257144.html">
+                                        <div class="articulo-subtitulos">
+                                            <h2 itemprop="alternativeHeadline" class="articulo-subtitulo">Estos son los remedios para cazar a los ciberdelincuentes antes de que accedan a nuestros dispositivos conectados para robar información</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                                <aside class="compartir" id="compartir_superior">
+                                    <div class="compartir__interior">
+                                        <div class="compartir-social" id="compartir_social">
+                                            <button class="boton_facebook" id="superior_fb">
+                                                <span class="boton-nombre">Compartir en Facebook</span>
+                                            </button>
+                                            <button class="boton_twitter" id="superior_twit">
+                                                <span class="boton-nombre">Compartir en Twitter</span>
+                                            </button>
+                                            <div class="compartir-otros" id="compartir-otros_sup">
+                                                <button class="boton_compartir-otros" id="boton_compartir-otros_sup">Otros</button>
+                                                <div class="compartir-otros__interior">
+                                                    <button class="boton_cerrar" id="cerrar_compartir-otros_sup">Cerrar</button>
+                                                    <button class="boton_linkedin" id="superior_linkedin">Compartir en Linkedin</button>
+                                                    <button class="boton_pinterest" id="superior_pinit">Compartir en Pinterest</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="compartir-varios">
+                                            <div class="favoritos" id="favoritos">
+                                                <button class="boton_favoritos" id="boton_favoritos">Guardar</button>
+                                            </div>
+                                            <div class="correo" id="correo"></div>
+                                            <button class="boton_imprimir" id="boton_imprimir">
+                                                <span class="nombre">Imprimir</span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <script>
+                                    if (typeof EPETMail != "undefined")
+                                        new EPETMail(document.getElementById('superior_enviar'), document.getElementById('superior_capaEnviarCorreo'));
+                                    if (typeof EPETTwitter != "undefined")
+                                        new EPETTwitter(document.getElementById('superior_twit'), params);
+                                    if (typeof EPETFacebook != "undefined")
+                                        new EPETFacebook(document.getElementById('superior_fb'), params);
+                                    if (typeof EPETLinkedin != "undefined")
+                                        new EPETLinkedin(document.getElementById('superior_linkedin'), params);
+                                    if (typeof EPETPinterest != "undefined")
+                                        new EPETPinterest(document.getElementById('superior_pinit'), params);
+                                    </script>
+                                </aside>
+                            </header>
+                            <div class="articulo-apertura ">
+                                <div class="firma ">
+                                    <div class="autor" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+                                        <figure class="foto" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+                                            <meta itemprop="url" content="img/el_pais.jpg">
+                                            <a class="enlace" href="https://elpais.com/autor/el_pais/a/">
+                                                <meta itemprop="width" content="80">
+                                                <meta itemprop="height" content="80">
+                                                <img onload="lzld(this)" src="img/t.gif" data-src="img/el_pais.jpg" width="80" height="80" alt="J.G. / J.P. | Ana Cuna (Ilustraciones)">
+                                            </a>
+                                        </figure>
+                                        <div class="autor-texto">
+                                            <span class="autor-nombre" itemprop="name">
+                                                <a itemprop="url" href="https://elpais.com/autor/el_pais/a/" title="Ver todas las noticias de J.G. / J.P. | Ana Cuna (Ilustraciones)">J.G. / J.P. | Ana Cuna (Ilustraciones)</a>
+                                            </span>
+                                            <div class="autor-perfiles">
+                                                <ul class="autor-perfiles-listado">
+                                                    <li>
+                                                        <a class="boton_twitter" itemprop="sameAs" href="http://twitter.com/el_pais" rel="nofollow" target="_blank">Twitter</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="articulo-datos">
+                                    <time datetime="2019-10-01T09:41:19+02:00" class="articulo-actualizado">
+                                        <meta content="2019-09-24T15:46:30+02:00" itemprop="datePublished">
+                                        <meta content="2019-10-01T09:41:19+02:00" itemprop="dateModified">
+                                        <a href="//elpais.com/tag/fecha/20191001 " title="Ver todas las noticias de esta fecha">
+
+                                            1 OCT 2019 - 09:41					
+                                            <abbr title="Central European Summer Time">CEST</abbr>
+                                        </a>
+                                    </time>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="articulo__contenedor" id="articulo_contenedor">
+                            <span class="oculto" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="url" content="img/elpais_1.png">
+                                <meta itemprop="width" content="485">
+                                <meta itemprop="height" content="292">
+                            </span>
+                            <div class="articulo-cuerpo" id="cuerpo_noticia" itemprop="articleBody">
+                                <p>
+                                    Para algunos, el mayor de los tesoros puede estar sumergido en una pecera. Si no, que le pregunten al casino que comprometió los datos de miles de clientes al instalar un 
+                                    <a href="https://mashable.com/2018/04/15/casino-smart-thermometer-hacked/?europe=true" target="_blank">termómetro inteligente</a>
+                                     en uno de sus acuarios. Además de regular la temperatura del agua, este dispositivo se convirtió en la puerta de entrada de una banda de 
+                                    <a href="https://cincodias.elpais.com/tag/pirata_informatico/a">
+                                        <em>hackers</em>
+                                    </a>
+                                    . Aprovechando la conexión a internet del termómetro, los ciberdelincuentes se colaron en la red informática del casino y comenzaron a extraer información confidencial de los jugadores. Aunque el ataque se frenó a tiempo, puso de relevancia la vulnerabilidad de los objetos que “hablan” entre sí gracias a la tecnología IoT (siglas en inglés de internet de las cosas), 
+                                    <a href="//elpais.com/publi-especial/thinkbig-empresas/internet-de-las-cosas/" target="_blank">cada vez más presente en nuestras vidas</a>
+                                    . En el caso de las empresas, los objetos con sensores ya se emplean para optimizar flotas de vehículos, mejorar la eficiencia energética de los edificios, automatizar procesos industriales, controlar la afluencia en tiendas… “El auténtico ‘boom’ del IoT está en los procesos de negocio, donde encontramos dispositivos conectados permanentemente, lo que obliga a controlar su seguridad en todo momento para solventar cualquier vulnerabilidad y anticiparse a un posible ataque”, comenta 
+                                    <strong>Agustín Cárdenas, director de Transformación de Negocio de Telefónica Empresas</strong>
+                                    . Según este experto, su compañía monitoriza más de 14 millones de sensores conectados a través de redes móviles, para garantizar la continuidad de los negocios que usan estos dispositivos. "Detectamos de forma proactiva alarmas del funcionamiento de los sensores, de la información que envían o de cualquier situación anómala para anticiparnos a posibles incidentes", señala.
+                                </p>
+                                <p>
+                                    Todo elemento conectado a una red puede ser el blanco de un ciberataque. De hecho, ya existe un tipo de amenaza, bautizada como “ataque de marionetas” (
+                                    <em>puppet attack</em>
+                                    ), que aprovecha la vulnerabilidad de los objetos del internet de las cosas para infiltrarse. Si tenemos en cuenta que el año que viene habrá 21.200 millones de dispositivos conectados, según IoT Analytics, la protección del IoT es una tarea crucial, especialmente en estos cinco escenarios.
+                                </p>
+                                <section class="sumario_foto centro" id="sumario_1|foto">
+                                    <a name="sumario_1"></a>
+                                    <div class="sumario__interior">
+                                        <figure class="foto foto_w980" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+                                            <img onload="lzld(this)" src="img/t.gif" data-src="img/1569332790_257144_1569593177_sumario_normal.jpg" width="980" height="490" alt="Cinco sitios por donde pueden colarse los ‘hackers’ y cómo solucionarlo" srcset="img/t.gif 200w" data-srcset="img/1569332790_257144_1569593177_sumario_normal_recorte1.jpg 1960w, img/1569332790_257144_1569593177_sumario_normal_recorte2.jpg 720w, img/1569332790_257144_1569593177_sumario_normal.jpg 980w">
+                                            <meta itemprop="width" content="980">
+                                            <meta itemprop="height" content="490">
+                                            <meta itemprop="url" content="img/1569332790_257144_1569593177_sumario_normal.jpg">
+                                        </figure>
+                                        <div class="sumario-texto"></div>
+                                    </div>
+                                </section>
+                                <p>
+                                    Una investigación de la IT University de Copenhague demostró que a través de los sensores de movimiento de un reloj inteligente se pueden 
+                                    <a href="//elpais.com/publi-especial/thinkbig-empresas/internet-de-las-cosas/" target="_blank">descifrar las contraseñas</a>
+                                     que está introduciendo en un teclado el usuario que lleva puesto ese accesorio.&nbsp;
+                                </p>
+                                <h3>Amenazas:</h3>
+                                <p>
+                                    - 'Hackeo'. Los ciberdelincuentes pueden acceder a nuestros&nbsp;
+                                    <em>wearables</em>
+                                     (ropa y accesorios inteligentes) y robar la información que guardamos en ellos.
+                                </p>
+                                <p>- 'Malware'. Instalación desde una descarga de internet de un programa malicioso que piratea los dispositivos.</p>
+                                <p>- 'Phishing'. A través de apps o correos electrónicos aparentemente oficiales, se nos solicitan datos personales con los que comercian posteriormente.</p>
+                                <h3>Soluciones:</h3>
+                                <p>- Actualización. Mantener nuestros dispositivos siempre actualizados, con las últimas versiones de software disponible.</p>
+                                <p>- Copias de seguridad. Permite disponer de todos nuestros datos desde la última vez que los guardamos.</p>
+                                <p>- MSSP. Si los desarrolladores del dispositivo no pueden hacerse cargo de su seguridad, lo ideal es que contraten los servicios de un MSSP, siglas en inglés de proveedor de seguridad gestionada.</p>
+                                <p>&nbsp;</p>
+                                <section class="sumario_foto centro" id="sumario_2|foto">
+                                    <a name="sumario_2"></a>
+                                    <div class="sumario__interior">
+                                        <figure class="foto foto_w980" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+                                            <img onload="lzld(this)" src="img/t.gif" data-src="img/1569332790_257144_1569593282_sumario_normal.jpg" width="980" height="490" alt="Cinco sitios por donde pueden colarse los ‘hackers’ y cómo solucionarlo" srcset="img/t.gif 200w" data-srcset="img/1569332790_257144_1569593282_sumario_normal_recorte1.jpg 1960w, img/1569332790_257144_1569593282_sumario_normal_recorte2.jpg 720w, img/1569332790_257144_1569593282_sumario_normal.jpg 980w">
+                                            <meta itemprop="width" content="980">
+                                            <meta itemprop="height" content="490">
+                                            <meta itemprop="url" content="img/1569332790_257144_1569593282_sumario_normal.jpg">
+                                        </figure>
+                                        <div class="sumario-texto"></div>
+                                    </div>
+                                </section>
+                                <p>
+                                    Hace dos años, una mujer holandesa denunció que la habían espiado a través de una cámara que instaló en su domicilio para controlar a su cachorro con el móvil. Se dio cuenta del 
+                                    <em>hackeo</em>
+                                     cuando dejó el teléfono en la mesa y 
+                                    <a href="https://thenextweb.com/plugged/2017/10/05/woman-films-internet-connected-camera-whispering-hola-senorita/" target="_blank">la cámara se movía</a>
+                                     sin que ella diera ninguna orden a través de la app.
+                                </p>
+                                <h3>Amenazas:</h3>
+                                <p>- 'Hackeo'. Los ciberdelincuentes acceden a los sistemas inteligentes de nuestras casas para controlarlos en remoto.</p>
+                                <p>- Corte eléctrico. La caída del sistema eléctrico pone en jaque a cualquier sistema conectado a la red. Sería conveniente contar con algún mecanismo de electricidad de emergencia.</p>
+                                <p>- 'Ransomware'. Programa dañino que restringe el acceso a partes del sistema operativo que controla la casa conectada. Para recuperar el control, se exige un rescate al usuario.</p>
+                                <h3>Soluciones:</h3>
+                                <p>- Algoritmos. Mediante la programación del sistema inteligente, podemos detectar si los sensores de nuestra casa se comportan erróneamente y verificar si un ciberdelincuente quiere acceder al hogar.</p>
+                                <p>- Contraseñas. Fijar contraseñas complejas y cambiar las que vienen de serie.&nbsp;</p>
+                                <p>- Antivirus. Instalar un antivirus que detecte, pare y elimine cualquier ataque en la red a través de programas maliciosos.</p>
+                                <p>&nbsp;</p>
+                                <section class="sumario_foto centro" id="sumario_3|foto">
+                                    <a name="sumario_3"></a>
+                                    <div class="sumario__interior">
+                                        <figure class="foto foto_w980" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+                                            <img onload="lzld(this)" src="img/t.gif" data-src="img/1569332790_257144_1569593370_sumario_normal.jpg" width="980" height="490" alt="Cinco sitios por donde pueden colarse los ‘hackers’ y cómo solucionarlo" srcset="img/t.gif 200w" data-srcset="img/1569332790_257144_1569593370_sumario_normal_recorte1.jpg 1960w, img/1569332790_257144_1569593370_sumario_normal_recorte2.jpg 720w, img/1569332790_257144_1569593370_sumario_normal.jpg 980w">
+                                            <meta itemprop="width" content="980">
+                                            <meta itemprop="height" content="490">
+                                            <meta itemprop="url" content="img/1569332790_257144_1569593370_sumario_normal.jpg">
+                                        </figure>
+                                        <div class="sumario-texto"></div>
+                                    </div>
+                                </section>
+                                <p>
+                                    Uno de los casos de 
+                                    <em>hackeos</em>
+                                     más sonados fue el de dos estadounidenses expertos en seguridad que accedieron desde sus ordenadores a un 
+                                    <a href="https://www.wired.com/2016/08/jeep-hackers-return-high-speed-steering-acceleration-hacks/" target="_blank">Jeep Cherokee</a>
+                                    . Consiguieron manipular el aire acondicionado, la radio, el limpiaparabrisas y hasta detener el motor del vehículo.
+                                </p>
+                                <h3>Amenazas:</h3>
+                                <p>- 'Hackeo'. Alguien puede acceder a los sistemas inteligentes de nuestros vehículos autónomos y controlarlos sin que podamos hacer nada.</p>
+                                <p>- Desconexión. Una caída del sistema satelital dejaría al coche autónomo sin capacidad de guía a través de una navegación por GPS.</p>
+                                <p>- Intromisión en comunicaciones. Un cibercriminal puede interceptar las comunicaciones entre el coche y otros dispositivos y trastocar el normal funcionamiento del vehículo.</p>
+                                <h3>Soluciones:</h3>
+                                <p>- La nube. Migrar, en la medida de lo posible, todo el software del coche y los sistemas operativos a la nube para recuperar los datos ante posibles ataques externos.</p>
+                                <p>- Cifrado de datos. Empleamos un algoritmo para transformar un mensaje, sin atender a su estructura lingüística o significado, de tal forma que sea incomprensible para quien no disponga de la clave secreta del algoritmo.</p>
+                                <p>- Identificación del dispositivo. Si el vehículo cuenta con su propio identificador, igualmente que los sensores que incorpore, será posible aislarlos en caso de sufrir cualquier ataque.</p>
+                                <p>&nbsp;</p>
+                                <section class="sumario_foto centro" id="sumario_4|foto">
+                                    <a name="sumario_4"></a>
+                                    <div class="sumario__interior">
+                                        <figure class="foto foto_w980" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+                                            <img onload="lzld(this)" src="img/t.gif" data-src="img/1569332790_257144_1569593488_sumario_normal.jpg" width="980" height="523" alt="Cinco sitios por donde pueden colarse los ‘hackers’ y cómo solucionarlo" srcset="img/t.gif 200w" data-srcset="img/1569332790_257144_1569593488_sumario_normal_recorte1.jpg 1960w, img/1569332790_257144_1569593488_sumario_normal_recorte2.jpg 720w, img/1569332790_257144_1569593488_sumario_normal.jpg 980w">
+                                            <meta itemprop="width" content="980">
+                                            <meta itemprop="height" content="523">
+                                            <meta itemprop="url" content="img/1569332790_257144_1569593488_sumario_normal.jpg">
+                                        </figure>
+                                        <div class="sumario-texto"></div>
+                                    </div>
+                                </section>
+                                <p>Kaspersky Lab detectó ataques por software malicioso en más del 40% de los equipos ICS (Sistemas de Control Industrial, en sus siglas en inglés) protegidos por sus soluciones en 2018. Los ciberataques contra estos equipos se consideran una amenaza altamente peligrosa por las importantes pérdidas de información y por el tiempo de inactividad del sistema.</p>
+                                <h3>Amenazas:</h3>
+                                <p>
+                                    - Ataque 'botnets'. Se trata de una red de 
+                                    <em>bots</em>
+                                    , controlada por un 
+                                    <em>hacker</em>
+                                    , que propaga automáticamente 
+                                    <em>malware</em>
+                                     o todo tipo de software pernicioso para los dispositivos.
+                                </p>
+                                <p>- 'Hackeo'. Alguien ajeno a la maquinaria puede colarse en sus sistemas inteligentes y darle órdenes en remoto.</p>
+                                <p>- 'Ransomware'. Se encripta parte de los archivos de las máquinas y se exige un rescate para volver a acceder a ellos. Esto puede alterar los ritmos de producción y las rutas de distribución.</p>
+                                <h3>Soluciones:</h3>
+                                <p>- Inteligencia artificial. Incorporar inteligencia artificial en la maquinaria para que aprenda de las amenazas detectadas y, de esta forma, predecir y mejorar sus sistemas de defensa autónomamente.</p>
+                                <p>
+                                    - La nube. Subir a una plataforma 
+                                    <em>cloud</em>
+                                    &nbsp;el software de las máquinas y los sistemas operativos para recuperar la información ante posibles ataques.
+                                </p>
+                                <p>- Cifrado de datos. Empleamos un algoritmo para transformar un mensaje, sin atender a su estructura lingüística o significado, de tal forma que sea incomprensible para quien no disponga de una clave secreta.</p>
+                                <p>&nbsp;</p>
+                                <section class="sumario_foto centro" id="sumario_5|foto">
+                                    <a name="sumario_5"></a>
+                                    <div class="sumario__interior">
+                                        <figure class="foto foto_w980" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+                                            <img onload="lzld(this)" src="img/t.gif" data-src="img/1569332790_257144_1569593436_sumario_normal.jpg" width="980" height="490" alt="Cinco sitios por donde pueden colarse los ‘hackers’ y cómo solucionarlo" srcset="img/t.gif 200w" data-srcset="img/1569332790_257144_1569593436_sumario_normal_recorte1.jpg 1960w, img/1569332790_257144_1569593436_sumario_normal_recorte2.jpg 720w, img/1569332790_257144_1569593436_sumario_normal.jpg 980w">
+                                            <meta itemprop="width" content="980">
+                                            <meta itemprop="height" content="490">
+                                            <meta itemprop="url" content="img/1569332790_257144_1569593436_sumario_normal.jpg">
+                                        </figure>
+                                        <div class="sumario-texto"></div>
+                                    </div>
+                                </section>
+                                <p>
+                                    En 2017, la ciudad estadounidense de Dallas sufrió un ataque contra sus sistemas de emergencia. En plena madrugada, las más de 150 sirenas, pensadas para alertar sobre tormentas o tornados, comenzaron a sonar sin parar. Las autoridades determinaron que todo partió de un 
+                                    <em>hackeo</em>
+                                     informático contra la red inteligente de la localidad.
+                                </p>
+                                <h3>Amenazas:</h3>
+                                <p>- 'Hackeo'. Los sistemas inteligentes de una ciudad entera pueden ser atacados con diferentes fines.</p>
+                                <p>- Caída eléctrica. La caída del sistema eléctrico pone en jaque a cualquier sistema conectado a la red, y más en el caso de las ciudades. Sería conveniente contar con algún mecanismo de electricidad de emergencia.</p>
+                                <p>- 'Malware'. Los ciberdelincuentes pueden optar por instalar externamente un programa malicioso con el que piratear los dispositivos de la ciudad, desde el alumbrado hasta las cámaras de tráfico.</p>
+                                <h3>Soluciones:</h3>
+                                <p>- AMI. Infraestructuras de medición avanzada, en sus siglas en inglés. Redes de comunicaciones y sistemas de gestión que permiten la comunicación bidireccional entre las distribuidoras y los clientes finales.</p>
+                                <p>- Integración de sistemas. En vez de contar con sistemas operativos muy diferentes entre los distintos IoT de la ciudad, optar por una integración que centralice la gestión.</p>
+                                <p>- Cifrado de datos. Se usa un algoritmo para codificar un mensaje, de tal forma que sea incomprensible para quien no disponga de una clave secreta.</p>
+                                <p>
+                                    En definitiva, los malos no descansan pero tenemos la ventaja de que los métodos de protección han mejorado sustancialmente. Uno de los más interesantes lo constituyen los denominados 
+                                    <em>honey pots,</em>
+                                     usados como señuelo para detectar ataques. "Expones directa y abiertamente dispositivos con IoT en la red para que los ciberdelincuentes piquen. Es una forma muy sencilla de encontrar vulnerabilidades y sus posibles remedios", señala 
+                                    <strong>Manuel López, responsable de soluciones IoT de Telefónica Empresas</strong>
+                                    . Aparte de que capturan a los 
+                                    <em>hackers</em>
+                                     en plena acción, los 
+                                    <em>honey pots</em>
+                                     son una herramienta de aprendizaje porque con la información obtenida pueden preverse con mayor facilidad otros indicios de que alguien ajeno está preparando un ataque a todo lo que tenemos conectado entre sí, según López.
+                                </p>
+                                <section class="sumario_include centro" id="sumario_6|include">
+                                    <a name="sumario_6"></a>
+                                    <div class="sumario__interior">
+                                        <div class="sumario-texto">
+                                            <style>
+                                            .tb_banner_pie {
+                                                max-width: 40rem;
+                                                margin: 1.25rem auto
+                                            }
+
+                                            .tb_banner_pie .tb_logo_pie--logo {
+                                                position: relative
+                                            }
+
+                                            .tb_banner_pie .tb_logo_pie--logo img {
+                                                max-width: 18.75rem;
+                                                margin: 3.75rem auto 5.625rem;
+                                                padding: 3rem 0 0
+                                            }
+
+                                            .tb_banner_pie .tb_logo_pie--logo::before {
+                                                content: "";
+                                                position: absolute;
+                                                top: 0;
+                                                left: 50%;
+                                                width: 11.25rem;
+                                                height: 0.0625rem;
+                                                display: block;
+                                                background: #444;
+                                                transform: translateX(-50%)
+                                            }
+
+                                            @media (max-width: 30rem) {
+                                                .tb_banner_pie .tb_logo_pie--logo img {
+                                                    max-width: 75%
+                                                }
+                                            }
+                                            </style>
+                                            <section class="tb_banner_pie" id="tb_banner_pie">
+                                                <div class="tb_banner_pie--hub">
+                                                    <a href="https://elpais.com/economia/thinkbig_empresas.html?prm=ep_bc_thinkbig_hub">
+                                                        <img onload="lzld(this)" src="img/t.gif" data-src="img/banner-thinkbig.png" alt="Más historias en #THINKBIGEMPRESAS">
+                                                    </a>
+                                                </div>
+                                                <div class="tb_logo_pie--logo">
+                                                    <a href="https://empresas.blogthinkbig.com/espana/" rel="nofollow" target="_blank">
+                                                        <img onload="lzld(this)" src="img/t.gif" data-src="img/telefonica-empresas-footer.png" alt="Think Big Empresas">
+                                                    </a>
+                                                </div>
+                                            </section>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="articulo-trust">
+                                <div class="articulo-trust__inner">
+                                    <span>Se adhiere a los criterios de</span>
+                                    <a href="https://elpais.com/estaticos/que-es-the-trust-project/" target="_blank" rel="nofollow">
+                                        <img onload="lzld(this)" src="img/t.gif" data-src="img/the-trust-project.png" alt="The Trust Project">
+                                    </a>
+                                    <a class="trust-mas" href="https://elpais.com/estaticos/codigo-etico/" target="_blank">Más información &gt;</a>
+                                </div>
+                            </div>
+                            <aside class="compartir" id="compartir_inferior">
+                                <div class="compartir__interior">
+                                    <div class="compartir-social" id="compartir_social_inferior">
+                                        <button class="boton_facebook" id="inferior_fb">
+                                            <span class="boton-nombre">Compartir en Facebook</span>
+                                        </button>
+                                        <button class="boton_twitter" id="inferior_twit">
+                                            <span class="boton-nombre">Compartir en Twitter</span>
+                                        </button>
+                                        <div class="compartir-otros" id="compartir-otros_inf">
+                                            <button class="boton_compartir-otros" id="boton_compartir-otros_inf">Otros</button>
+                                            <div class="compartir-otros__interior">
+                                                <button class="boton_cerrar" id="cerrar_compartir-otros_inf">Cerrar</button>
+                                                <button class="boton_linkedin" id="inferior_linkedin">Compartir en Linkedin</button>
+                                                <button class="boton_pinterest" id="inferior_pinit">Compartir en Pinterest</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <script>
+                                //if(typeof EPETMail != "undefined")       new EPETMail ( document.getElementById('inferior_enviar'), document.getElementById('inferior_capaEnviarCorreo'));
+                                if (typeof EPETTwitter != "undefined")
+                                    new EPETTwitter(document.getElementById('inferior_twit'), params);
+                                if (typeof EPETFacebook != "undefined")
+                                    new EPETFacebook(document.getElementById('inferior_fb'), params);
+                                if (typeof EPETLinkedin != "undefined")
+                                    new EPETLinkedin(document.getElementById('inferior_linkedin'), params);
+                                if (typeof EPETPinterest != "undefined")
+                                    new EPETPinterest(document.getElementById('inferior_pinit'), params);
+                                </script>
+                            </aside>
+                            <section class="articulo-tags" id="articulo-tags">
+                                <header class="articulo-tags-encabezado ">
+                                    <button class="articulo-tags-titulo" id="boton_articulo-tags">
+                                    Archivado en:
+                                    </button>
+                                </header>
+                                <div class="articulo-tags__interior" id="articulo-tags__interior">
+                                    <ul class="listado" id="listado">
+                                        <li itemprop="keywords">
+                                            <a href="//elpais.com/tag/internet_de_las_cosas/a/" title="Ver más noticias de [Internet de las cosas]">Internet de las cosas</a>
+                                        </li>
+                                        <li itemprop="keywords">
+                                            <a href="//elpais.com/tag/programa_informatico_malicioso/a/" title="Ver más noticias de [Malware]">Malware</a>
+                                        </li>
+                                        <li itemprop="keywords">
+                                            <a href="//elpais.com/tag/fraude_informatico/a/" title="Ver más noticias de [PhisHing]">PhisHing</a>
+                                        </li>
+                                        <li itemprop="keywords">
+                                            <a href="//elpais.com/tag/ciudad_inteligente/a/" title="Ver más noticias de [Ciudades inteligentes]">Ciudades inteligentes</a>
+                                        </li>
+                                        <li itemprop="keywords">
+                                            <a href="//elpais.com/tag/edificios_inteligentes/a/" title="Ver más noticias de [Edificios inteligentes]">Edificios inteligentes</a>
+                                        </li>
+                                        <li itemprop="keywords">
+                                            <a href="//elpais.com/tag/programas_antivirus/a/" title="Ver más noticias de [Antivirus]">Antivirus</a>
+                                        </li>
+                                        <li itemprop="keywords">
+                                            <a href="//elpais.com/tag/virus_informaticos/a/" title="Ver más noticias de [Virus informáticos]">Virus informáticos</a>
+                                        </li>
+                                        <li itemprop="keywords">
+                                            <a href="//elpais.com/tag/pirata_informatico/a/" title="Ver más noticias de [Hacker]">Hacker</a>
+                                        </li>
+                                        <li itemprop="keywords">
+                                            <a href="//elpais.com/tag/telefonica/a/" title="Ver más noticias de [Telefónica]">Telefónica</a>
+                                        </li>
+                                        <li itemprop="keywords">
+                                            <a href="//elpais.com/tag/delitos_informaticos/a/" title="Ver más noticias de [Delitos informáticos]">Delitos informáticos</a>
+                                        </li>
+                                        <li itemprop="keywords">
+                                            <a href="//elpais.com/tag/seguridad_internet/a/" title="Ver más noticias de [Seguridad internet]">Seguridad internet</a>
+                                        </li>
+                                        <li itemprop="keywords">
+                                            <a href="//elpais.com/tag/internet/a/" title="Ver más noticias de [Internet]">Internet</a>
+                                        </li>
+                                        <li itemprop="keywords">
+                                            <a href="//elpais.com/tag/telecomunicaciones/a/" title="Ver más noticias de [Telecomunicaciones]">Telecomunicaciones</a>
+                                        </li>
+                                        <li itemprop="keywords">
+                                            <a href="//elpais.com/tag/comunicaciones/a/" title="Ver más noticias de [Comunicaciones]">Comunicaciones</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </article>
+                <aside class="otros">
+                    <div class="otros__interior"></div>
+                </aside>
+            </div>
+        </main>
+        <footer id="pie" class="pie">
+            <script>
+            var var_eptz = "ES";
+            </script>
+        </footer>
+    </div>
+
+</BODY>
+</html>

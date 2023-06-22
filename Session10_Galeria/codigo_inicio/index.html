@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Hysteriarts | Gallery</title>
+    <style>
+        h1 {
+            font-size: 25px;
+            color: black;
+            font-size: 50px;
+            font-style: bolder;
+        }
+
+
+        header {
+            display: flex;
+            height: 100px;
+            font-family: Arial, Helvetica, sans-serif;
+            justify-content: center;
+            align-items: center;
+            flex-direction: row;
+            color: white;
+        }
+
+        section {
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            overflow: scroll;
+        }
+
+        .item_flex:hover {
+            filter: grayscale(0%);
+        }
+
+        .flex-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+        }
+
+
+
+        .item_flex {
+            min-width: 350px;
+            margin: 0 1em;
+            background-color: #ffff;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 10px;
+            filter: grayscale(100%);
+            transition: filter 0.3s ease;
+
+        }
+
+
+        h2 {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 13px;
+            font-weight: bold;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Hysteriarts Gallery</h1>
+    </header>
+
+    <section>
+        <div class="flex-container">
+            <div class="item_flex">
+                <h2>Photography 01</h2>
+                <a href="img/web01.jpg" target="_blank" >
+                    <img alt="Imagen 1" src="img/web01_min.jpg" title="Circo de Gavarnie, Francia">
+                </a>
+                <p>Cirque de Gavarnie, France on Canon EOS 1300D</p>
+            </div>
+
+            <div class="item_flex">
+                <h2>Photography 02</h2>
+                <a href="img/web02.jpg" target="_blank">
+                    <img alt="Imagen 2" src="img/web02_min.jpg" title="Catedral de Lourdes, Francia">
+                </a>
+                <p>Lourdes' Cathedral, Lourdes (France)</p>
+            </div>
+
+            <div class="item_flex">
+                <h2>Photography 03</h2>
+                <a href="img/designergif.gif" target="_blank">
+                    <img alt="Gif Designer" src="img/designergif.gif" title="Nunca estudies diseño gráfico">
+                </a>
+                <p>Gif that describes the misfortunes of working as a designer</p>
+            </div>
+
+            <div class="item_flex">
+                <h2>Photography 04</h2>
+                <a href="img/El Veggindariosvg.svg" target="_blank">
+                    <img alt="Imagen 3" src="img/El Veggindariosvg.svg" title="Logotipo El Veggindario vegan Bar">
+                </a>
+                <p>Logo of El Veggindario</p>
+            </div>
+
+            <div class="item_flex">
+                <h2>Photography 05</h2>
+                <a href="img/alaqant01.svg" target="_blank">
+                    <img alt="Imagen 4" src="img/alaqant01_min.svg" title="Al·laqant: Monforte del Cid">
+                </a>
+                <p>Al·laqant: Leyendas del Levante</p>
+            </div>
+
+            <div class="item_flex">
+                <h2>Photography 06</h2>
+                <a href="img/alaqant02.svg" target="_blank">
+                    <img alt="Image 6" src="img/alaqant02_min.svg" title="Al·laqant: Isla de Tabarca">
+                </a>
+                <p>Al·laqant: Leyendas del Levante</p>
+            </div>
+            <div class="item_flex">
+                <h2>Photography 07</h2>
+                <a href="img/Orbea01.jpg" target="_blank">
+                    <img alt="Imagen 4" src="img/Orbea01_min.jpg" title="Restauración Orbea Moncayo">
+                </a>
+                <p>Orbea Moncayo 80's restored</p>
+            </div>
+            <div class="item_flex">
+                <h2>Photography 08</h2>
+                <a href="img/Orbea02.jpg" target="_blank">
+                    <img alt="Imagen 4" src="img/Orbea02_min.jpg" title="Restauración Orbea Moncayo">
+                </a>
+                <p>Orbea Moncayo 80's restored</p>
+            </div>
+            <div class="item_flex">
+                <h2>Photography 09</h2>
+                <a href="img/Orbea03.jpg" target="_blank">
+                    <img alt="Imagen 4" src="img/Orbea03_min.jpg" title="Restauración Orbea Moncayo">
+                </a>
+                <p>Orbea Moncayo 80's restored</p>
+            </div>
+        </div>
+    </section>
+
+</body>
+
+</html>

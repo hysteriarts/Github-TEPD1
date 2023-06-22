@@ -1,0 +1,103 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#principal {
+    width: 70%;
+ /*   height: 500px;
+    background-color: aqua;*/
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+header {
+    height: 85px;
+    width: 70%;
+    background-color: rgb(0, 50, 70);
+    text-align: justify-all;
+    position: fixed;
+
+    }
+
+article{
+    padding-top: 100px;
+}
+
+.enlinea {
+    display: inline-block;
+    width: 33%;
+    line-height: 1.2em;
+ /*   background-color: aqua;*/
+}
+
+#centro {
+    text-align: center;
+}
+
+#dercha {
+    text-align: right;
+    line-height: 2.2;
+    color:white;
+}
+
+#logo {
+    float: right;
+   }
+
+h1 {
+    font-size: 2.5em;
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: center;
+
+}
+
+h5 {
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: center;
+    font-family: verdana;
+}
+#letraP{
+     padding-left: 25%;
+    float:left;
+}
+.verde{
+    color:limegreen;
+}
+p {
+    padding-left: 25%;
+    padding-right: 25%;
+    font-family: verdana;
+    padding-bottom: 15px;
+    line-height: 1.8;
+}
+
+.negrita {
+    font-weight: bold;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-family: verdana;
+
+}
+.letraCapital{
+	
+	float:left;
+	font-size: 3em;
+}
+.subrayado {
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: verdana;
+}
+
+.tachado {
+    font-weight: bold;
+    text-decoration: line-through;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-family: verdana;
+}

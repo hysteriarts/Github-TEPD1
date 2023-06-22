@@ -1,0 +1,114 @@
+body {
+    letter-spacing: 2px;
+    /* que ocupe el ancho de la pantalla */
+    height: 100vh;
+    /* para que sea cuadrada (igual a width) */
+    background-image: url(Img/fondo-1400x860.jpg);
+    background-size: Cover;
+    background-repeat: no-repeat;
+    background-color: #222222;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+section {
+    height: 70vh;
+    width: 100%;
+    position: relative;
+
+}
+
+header {
+    height: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /*espacio entre items*/
+
+}
+
+#logoAdobe {
+    width: 30px;
+
+}
+
+ul li {
+    list-style-type: none;
+    text-transform: uppercase;
+    display: inline-block;
+    /*em = espacio de la letra*/
+    color: lightgray;
+    padding: 10px;
+}
+
+#menu {
+    width: 33%;
+}
+
+
+
+
+
+#Izquierda {
+    display: flex;
+    justify-content: flex start;
+    align-items: flex start;
+    color: white;
+    margin-left: 100px;
+    top: 20%;
+    left: 30%;
+    width: 40%;
+    height: 80%;
+    margin-left: 100px;
+}
+
+#derecha {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    
+    top: 20%;
+    left: 10%;
+    width: 40%;
+    height: 80%;
+}
+
+
+
+#pizq{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 1em;
+    font-size: 12px;
+    text-align: start;
+    padding-right:70% ;
+}
+
+
+#cajaInferior {
+    top: 0px;
+    left: 0px;
+    position: sticky;
+}
+
+
+#h2izq {
+    font-size: 30px;
+    font-weight: normal;
+}
+
+#h5izq {
+    font-size: 13px;
+    font-weight: black;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+button {
+    color: white;
+    border-radius: 5px;
+    border-color: rgb(31, 173, 255);
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 3em;
+    padding-right: 3em;
+    background-color: rgb(31, 173, 255);
+}
