@@ -1,0 +1,124 @@
+body {
+    letter-spacing: 2px;
+    /* que ocupe el ancho de la pantalla */
+    height: 100vh;
+    /* para que sea cuadrada (igual a width) */
+    background-size: Cover;
+    background-repeat: no-repeat;
+    background-color: #FFF1F1;
+}
+
+section {
+    height: 70vh;
+    width: 100%;
+    position: relative;
+
+}
+
+header {
+    height: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*espacio entre items*/
+
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+
+ul li {
+    list-style-type: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    display: inline-block;
+    /*em = espacio de la letra*/
+    color: black;
+    padding: 10px;
+}
+
+#menu {
+    width: 33%;
+}
+
+a:visited{
+}
+a:hover {
+    position: relative;
+    top: 5px;
+    left: 5px;
+    font-weight: bold;
+    color: #F26B76;
+}
+menu:hover{
+    color: #F26B76;
+}
+
+
+#izquierda {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+
+    top: 20%;
+    left: 10%;
+    width: 40%;
+    height: 100%;
+}
+
+#FotoTelefono {
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 100px;
+}
+
+#derecha {
+    position: relative;
+    color: black;
+    margin-right: 100px;
+    top: 40%;
+    left: 50%;
+    width: 40%;
+    height: 80%;
+}
+
+
+#h2der {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+
+#pder {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightgray;
+    margin-bottom: 1em;
+    font-size: 20px;
+    text-align: start;
+    padding-right: 25%;
+}
+
+div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+button {
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: #F26B76;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 3em;
+    padding-right: 3em;
+    background-color: #F26B76
+}
