@@ -4,24 +4,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>hysteriarts | About</title>
+    <title>hysteriarts | Works</title>
     <link rel="icon" href="img/ico.jpg" type="image/x-icon">
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css">
-
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
-    <script>
-        $(document).ready(function () {
-            $('.slider').slick();
-        });
-    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
     <style>
-        /* Importación de fuentes de google fonts */
         @import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+
+        .navbar {
+            background-color: transparent;
+        }
+
+        .navbar-brand {
+            color: #ffffff;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .navbar-nav .nav-link {
+            color: #ffffff;
+        }
+
+        .navbar-toggler {
+            border: none;
+        }
+
+        .navbar-toggler-icon {
+            background-color: #ffffff;
+        }
 
         h1 {
             color: #ffffff;
@@ -101,41 +114,46 @@
             color: #ffffff;
         }
 
-        .container{
-            margin-top: 200px;
-        }
-        .imag-fluid {
-            margin-top: 300px;
-            max-width: 500px;
-            display: flex;
-            align-items: flex-start;
+        section {
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            overflow: hidden;
         }
 
-        .text {
+        .flex-container {
             display: flex;
-            align-items: flex-start;
-            margin-top: 450px;
-            margin-left: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
         }
 
-        .col-lg-6 {
-            margin-bottom: 190px;
+
+
+        .item_flex {
+            min-width: 350px;
+            margin: 0 1em;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 10px;
+
         }
+
 
         /* Estilos para el pie de página */
-        .icon {
-            margin-top: 20px;
-            max-height: 40px;
-        }
-
         .footer {
-            margin-bottom: 50px;
             text-align: center;
             background-color: #000000;
             color: #ffffffaf;
-            padding: 20px;
             bottom: 0;
             width: 100%;
+        }
+
+        .icon {
+            margin-top: 20px;
+            max-height: 40px;
         }
 
         .footer p {
@@ -145,52 +163,66 @@
 </head>
 
 <body style="background-color: #000000;">
-    <nav id="navbar" class="navbar navbar-expand-lg navbar-light mt-3">
-        <a class="navbar-brand text-light ml-5" href="index.html"> hysteriarts </a>
-        </a>
-        <div class="collapse navbar-collapse " id="navbarNav">
+    <nav class="navbar navbar-expand-lg navbar-light mt-3">
+        <a class="navbar-brand text-light ml-5" href="index.html">hysteriarts</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto mr-3">
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="index3.html"
-                        style="background:  #ffffff ; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">About</a>
+                    <a class="nav-link text-light" href="index3.html">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="index4.html"
-                        style="background:  #ffffff ; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Works</a>
+                    <a class="nav-link text-light" href="index4.html">Works</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="index2.html"
-                        style="background:  #ffffff ; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Contact</a>
+                    <a class="nav-link text-light" href="index2.html">Contact</a>
                 </li>
             </ul>
         </div>
     </nav>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6">
-                <img src="img/ico.jpg" alt="About Image" class="img-fluid">
+    <section>
+        <div class="flex-container">
+            <div class="item_flex nowrap">
+                <a href="img/_MG_8589.jpg" target="_blank"></a>
+                <img alt="Imagen 1" src="img/Candy01.jpg" title="Candy Party Photoshoot" class="img-fluid">
             </div>
-            <div class="col-lg-6">
-                <div class="text">
-                    <h6>Hi, I’m Adrian Bermejo. I started my artistic studies at the EASD in Alicante, where I developed
-                        my graphic skills in illustration, design, and photography. Passing through a degree in
-                        Illustration and later higher studies in Graphic Design. I am interested in any form of
-                        creativity, I always give 100% in the projects in which I can contribute with vision or help
-                        from the graphic side.</h6>
-                </div>
-            </div>
-        </div>
-    </div>
 
+            <div class="flex-container">
+                <div class="item_flex">
+                    <a href="img/Candy02s.jpg" target="_blank"></a>
+                    <img alt="Imagen 2" src="img/Candy02.jpg" title="Candy Party Photoshoot">
+                </div>
+
+                <div class="flex-container">
+                    <a href="img/Orbea01.jpg" target="_blank"></a>
+                    <div class="item_flex">
+                        <img alt="Imagen 3" src="img/Orbea01.jpg" title="Orbea Moncayo restored">
+                    </div>
+
+                    <div class="flex-container">
+                        <a href="img/Candy03.jpg" target="_blank"></a>
+                        <div class="item_flex">
+                            <img alt="Imagen 4" src="img/Candy03.jpg" title="Candy Party Photoshoot">
+                        </div>
+
+
+
+
+    </section>
 
     <div id="Aboutweb" class="row mt-4 ml-4 text-light">
         <div class="col-md-3 ml-auto mt-5 mb-5 mr-5">
             <h2 style="font-size: 18pt; color: #ffffff;">About this Website</h2>
             <ul>
                 <ul>
-                    <li><h6>As a blog, this website presents some of my work and
-                            my style, <br> allowing you to get to know a part of who I am and what I am capable of.</h6></li>
+                    <li>
+                        <h6>As a blog, this website presents some of my work and
+                            my style, <br> allowing you to get to know a part of who I am and what I am capable of.</h6>
+                    </li>
                 </ul>
             </ul>
             <ul><a href="img/instagramwhite.png"></a></ul>
@@ -209,11 +241,12 @@
                     <p>© hysteriarts. All rights reserved.</p>
                     <a href="https://www.instagram.com/hysteriarts/">
                         <img class="icon" src="img/instagramwhite.png" alt="hysteriarts instagram">
-                      </a>
+                    </a>
                 </div>
             </div>
         </div>
     </footer>
+    </div>
 </body>
 
 </html>

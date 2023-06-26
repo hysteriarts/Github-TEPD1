@@ -7,24 +7,34 @@
     <title>hysteriarts | Contact</title>
     <link rel="icon" href="img/ico.jpg" type="image/x-icon">
 
-
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css">
-
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
-    <script>
-        $(document).ready(function () {
-            $('.slider').slick();
-        });
-    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
     <style>
-        /* Importación de fuentes de google fonts */
-        @import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+     @import url(https://fonts.googleapis.com/css?family=Noto+Sans);
 
+        .navbar {
+            background-color: transparent;
+        }
 
+        .navbar-brand {
+            color: #ffffff;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .navbar-nav .nav-link {
+            color: #ffffff;
+        }
+
+        .navbar-toggler {
+            border: none;
+        }
+
+        .navbar-toggler-icon {
+            background-color: #ffffff;
+        }
         .contact_form {
             width: 460px;
             height: auto;
@@ -97,17 +107,6 @@
             background-color: #000000;
         }
 
-        .slider {
-            height: 315px;
-            width: 1920px;
-            overflow: hidden;
-        }
-
-        .banner-slide img {
-            width: 100%;
-        }
-
-
         .spacer {
             margin-bottom: 50px;
         }
@@ -134,17 +133,6 @@
 
         }
 
-        .slider {
-            align-items: center;
-            height: 800px;
-            width: 1200px;
-            margin: 0 auto;
-
-        }
-
-        .banner-slide img {
-            width: 100%;
-        }
 
         .Aboutweb {
             margin-top: 200px;
@@ -257,21 +245,22 @@
 </head>
 
 <body style="background-color: #000000;">
-    <nav id="navbar" class="navbar navbar-expand-lg navbar-light mt-3">
-        <a class="navbar-brand text-light ml-5" href="index.html"> hysteriarts </a>
-        <div class="collapse navbar-collapse " id="navbarNav">
+    <nav class="navbar navbar-expand-lg navbar-light mt-3">
+        <a class="navbar-brand text-light ml-5" href="index.html">hysteriarts</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto mr-3">
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="index3.html"
-                        style="background:  #ffffff ; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">About</a>
+                    <a class="nav-link text-light" href="index3.html">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="index4.html"
-                        style="background:  #ffffff ; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Works</a>
+                    <a class="nav-link text-light" href="index4.html">Works</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="index2.html"
-                        style="background:  #ffffff ; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Contact</a>
+                    <a class="nav-link text-light" href="index2.html">Contact</a>
                 </li>
             </ul>
         </div>
@@ -284,34 +273,29 @@
                     <label for="Name" class="place_name">Name
                         <span class="obligatorio">*</span>
                     </label>
-                    <input type="text" name="enter_name" id="nombre" required="mandatory"
-                        placeholder="Enter your name">
+                    <input type="text" name="enter_name" id="nombre" required placeholder="Enter your name">
                 </p>
                 <p>
                     <label for="email" class="place_email">Email
                         <span class="obligatorio">*</span>
                     </label>
-                    <input type="email" name="enter_email" id="email" required="mandatory"
-                        placeholder="Enter your email">
+                    <input type="email" name="enter_email" id="email" required placeholder="Enter your email">
                 </p>
                 <p>
                     <label for="asunto" class="place_subject">Subject
                         <span class="obligatorio">*</span>
                     </label>
-                    <input type="text" name="enter_subject" id="assunto" required="mandatory"
-                        placeholder="Enter subject">
+                    <input type="text" name="enter_subject" id="assunto" required placeholder="Enter subject">
                 </p>
                 <p>
                     <label for="mensaje" class="place_message">Message
                         <span class="obligatorio">*</span>
                     </label>
-                    <textarea name="enter_message" class="texto_mensaje" id="mensaje" required="mandatory"
-                        placeholder="Let your message..."></textarea>
+                    <textarea name="enter_message" class="texto_mensaje" id="mensaje" required placeholder="Let your message..."></textarea>
                 </p>
                 <button type="submit" name="Send" id="enviar" style="font-size: 15px;">
                     <p>Send</p>
                 </button>
-            
             </form>
         </div>
     </div>
@@ -320,13 +304,13 @@
         <div class="col-md-3 ml-auto mt-5 mb-5 mr-5">
             <h2 style="font-size: 18pt; color: #ffffff;">About this Website</h2>
             <ul>
-                <li><h6>As a blog, this website presents some of my work and
-                        my style, <br> allowing you to get to know a part of who I am and what I am capable of.</h6></li>
+                <li>
+                    <h6>As a blog, this website presents some of my work and my style, allowing you to get to know a part of who I am and what I am capable of.</h6>
+                </li>
             </ul>
-            <ul><a href="img/instagramwhite.png"></a></ul>
         </div>
         <div class="col-md-3 ml-auto mt-5 mb-5 mr-5">
-            <h6 class="mb-4">Any idea? Let me know by dropping your mail here. <br> We are in Touch!</h6>
+            <h6 class="mb-4">Any idea? Let me know by dropping your mail here. We are in Touch!</h6>
             <p class="mb-4">hysteriarts@gmail.com</p>
         </div>
     </div>
@@ -339,14 +323,13 @@
                     <p>© hysteriarts. All rights reserved.</p>
                     <a href="https://www.instagram.com/hysteriarts/">
                         <img class="icon" src="img/instagramwhite.png" alt="hysteriarts instagram">
-                      </a>
+                    </a>
                 </div>
             </div>
         </div>
     </footer>
 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 
 </html>
